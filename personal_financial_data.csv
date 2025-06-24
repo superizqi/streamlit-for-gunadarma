@@ -1,0 +1,967 @@
+Tanggal,Jam,Tipe,Kategori,Jumlah,Metode_Pembayaran,Bulan
+2024-01-01,11:42:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-01
+2024-01-01,08:46:00,Pengeluaran,Tagihan,-25390.0,Transfer Bank,2024-01
+2024-01-01,17:14:00,Pengeluaran,Tagihan,-31284.0,Kartu Kredit,2024-01
+2024-01-01,10:34:00,Pengeluaran,Transportasi,-36850.0,Transfer Bank,2024-01
+2024-01-02,13:12:00,Pengeluaran,Hiburan,-34423.0,E-wallet,2024-01
+2024-01-02,18:03:00,Pengeluaran,Belanja,-47495.0,Transfer Bank,2024-01
+2024-01-03,12:43:00,Pengeluaran,Tagihan,-20769.0,QRIS,2024-01
+2024-01-03,13:25:00,Pengeluaran,Belanja,-43333.0,Kartu Kredit,2024-01
+2024-01-04,09:40:00,Pengeluaran,Belanja,-26420.0,QRIS,2024-01
+2024-01-04,07:21:00,Pengeluaran,Belanja,-39769.0,QRIS,2024-01
+2024-01-04,21:16:00,Pengeluaran,Tagihan,-49419.0,QRIS,2024-01
+2024-01-05,15:30:00,Pengeluaran,Hiburan,-45658.0,Transfer Bank,2024-01
+2024-01-05,14:55:00,Pengeluaran,Transportasi,-38431.0,Transfer Bank,2024-01
+2024-01-06,16:26:00,Pengeluaran,Hiburan,-21899.0,QRIS,2024-01
+2024-01-06,09:10:00,Pengeluaran,Belanja,-37912.0,E-wallet,2024-01
+2024-01-06,17:46:00,Pengeluaran,Tagihan,-23890.0,E-wallet,2024-01
+2024-01-07,11:33:00,Pengeluaran,Makanan,-34502.0,Transfer Bank,2024-01
+2024-01-07,12:15:00,Pengeluaran,Belanja,-28792.0,QRIS,2024-01
+2024-01-08,19:56:00,Pengeluaran,Transportasi,-30233.0,QRIS,2024-01
+2024-01-08,21:57:00,Pengeluaran,Transportasi,-22612.0,E-wallet,2024-01
+2024-01-08,13:06:00,Pengeluaran,Belanja,-42619.0,QRIS,2024-01
+2024-01-09,19:55:00,Pengeluaran,Belanja,-47132.0,Kartu Kredit,2024-01
+2024-01-09,08:20:00,Pengeluaran,Hiburan,-34541.0,Kartu Kredit,2024-01
+2024-01-09,21:31:00,Pengeluaran,Belanja,-21585.0,E-wallet,2024-01
+2024-01-10,13:29:00,Pengeluaran,Transportasi,-21021.0,QRIS,2024-01
+2024-01-10,20:41:00,Pengeluaran,Transportasi,-40227.0,Transfer Bank,2024-01
+2024-01-10,13:41:00,Pengeluaran,Tagihan,-32990.0,E-wallet,2024-01
+2024-01-11,10:21:00,Pengeluaran,Belanja,-20161.0,E-wallet,2024-01
+2024-01-11,11:30:00,Pengeluaran,Belanja,-49487.0,Transfer Bank,2024-01
+2024-01-11,18:41:00,Pengeluaran,Belanja,-21016.0,Transfer Bank,2024-01
+2024-01-12,19:28:00,Pengeluaran,Tagihan,-43247.0,Transfer Bank,2024-01
+2024-01-12,07:52:00,Pengeluaran,Transportasi,-37262.0,E-wallet,2024-01
+2024-01-12,10:07:00,Pengeluaran,Transportasi,-41243.0,Transfer Bank,2024-01
+2024-01-13,09:36:00,Pengeluaran,Tagihan,-27208.0,Kartu Kredit,2024-01
+2024-01-13,21:16:00,Pengeluaran,Tagihan,-36448.0,QRIS,2024-01
+2024-01-13,09:08:00,Pengeluaran,Makanan,-41847.0,E-wallet,2024-01
+2024-01-14,16:52:00,Pengeluaran,Hiburan,-42002.0,Transfer Bank,2024-01
+2024-01-14,11:48:00,Pengeluaran,Hiburan,-49090.0,QRIS,2024-01
+2024-01-14,15:09:00,Pengeluaran,Hiburan,-25892.0,Transfer Bank,2024-01
+2024-01-15,07:27:00,Pengeluaran,Transportasi,-26184.0,QRIS,2024-01
+2024-01-15,07:32:00,Pengeluaran,Makanan,-33067.0,E-wallet,2024-01
+2024-01-16,21:31:00,Pengeluaran,Tagihan,-39115.0,E-wallet,2024-01
+2024-01-16,19:18:00,Pengeluaran,Hiburan,-29762.0,Kartu Kredit,2024-01
+2024-01-16,14:41:00,Pengeluaran,Tagihan,-28110.0,Transfer Bank,2024-01
+2024-01-17,10:37:00,Pengeluaran,Makanan,-37412.0,Transfer Bank,2024-01
+2024-01-17,10:26:00,Pengeluaran,Hiburan,-40872.0,Transfer Bank,2024-01
+2024-01-18,21:51:00,Pengeluaran,Transportasi,-44105.0,Transfer Bank,2024-01
+2024-01-18,16:34:00,Pengeluaran,Tagihan,-44242.0,QRIS,2024-01
+2024-01-19,08:35:00,Pengeluaran,Makanan,-28755.0,Kartu Kredit,2024-01
+2024-01-19,15:04:00,Pengeluaran,Belanja,-38141.0,E-wallet,2024-01
+2024-01-19,09:50:00,Pengeluaran,Tagihan,-21678.0,E-wallet,2024-01
+2024-01-20,09:39:00,Pengeluaran,Belanja,-43052.0,Kartu Kredit,2024-01
+2024-01-20,08:25:00,Pengeluaran,Hiburan,-47890.0,QRIS,2024-01
+2024-01-21,16:16:00,Pengeluaran,Transportasi,-30921.0,Transfer Bank,2024-01
+2024-01-21,17:45:00,Pengeluaran,Makanan,-31252.0,Transfer Bank,2024-01
+2024-01-21,17:19:00,Pengeluaran,Belanja,-49723.0,QRIS,2024-01
+2024-01-22,12:30:00,Pengeluaran,Belanja,-36157.0,Transfer Bank,2024-01
+2024-01-22,12:47:00,Pengeluaran,Transportasi,-30230.0,QRIS,2024-01
+2024-01-22,10:09:00,Pengeluaran,Makanan,-31494.0,Transfer Bank,2024-01
+2024-01-23,11:36:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-01
+2024-01-23,17:32:00,Pengeluaran,Makanan,-21306.0,E-wallet,2024-01
+2024-01-23,19:24:00,Pengeluaran,Belanja,-49644.0,Kartu Kredit,2024-01
+2024-01-24,12:17:00,Pengeluaran,Hiburan,-49320.0,Kartu Kredit,2024-01
+2024-01-24,18:23:00,Pengeluaran,Tagihan,-33545.0,Transfer Bank,2024-01
+2024-01-25,10:23:00,Pemasukan,Gaji,7000000.0,Transfer,2024-01
+2024-01-25,18:11:00,Pengeluaran,Hiburan,-48021.0,Kartu Kredit,2024-01
+2024-01-25,08:52:00,Pengeluaran,Makanan,-40147.0,E-wallet,2024-01
+2024-01-26,16:23:00,Pengeluaran,Makanan,-26585.0,Transfer Bank,2024-01
+2024-01-26,20:26:00,Pengeluaran,Belanja,-39965.0,E-wallet,2024-01
+2024-01-26,08:52:00,Pengeluaran,Transportasi,-43938.0,Kartu Kredit,2024-01
+2024-01-27,11:52:00,Pemasukan,Freelance,567172.0,Transfer,2024-01
+2024-01-27,08:52:00,Pengeluaran,Makanan,-37082.0,E-wallet,2024-01
+2024-01-27,10:39:00,Pengeluaran,Transportasi,-24737.0,QRIS,2024-01
+2024-01-27,10:44:00,Pengeluaran,Tagihan,-25855.0,QRIS,2024-01
+2024-01-28,09:09:00,Pengeluaran,Hiburan,-33949.0,Transfer Bank,2024-01
+2024-01-28,19:09:00,Pengeluaran,Tagihan,-38091.0,Transfer Bank,2024-01
+2024-01-29,10:22:00,Pengeluaran,Belanja,-39894.0,E-wallet,2024-01
+2024-01-29,19:46:00,Pengeluaran,Hiburan,-32688.0,E-wallet,2024-01
+2024-01-29,17:09:00,Pengeluaran,Tagihan,-39315.0,Kartu Kredit,2024-01
+2024-01-30,19:31:00,Pengeluaran,Hiburan,-31774.0,Transfer Bank,2024-01
+2024-01-30,09:03:00,Pengeluaran,Makanan,-47848.0,Kartu Kredit,2024-01
+2024-01-30,14:43:00,Pengeluaran,Hiburan,-31589.0,Transfer Bank,2024-01
+2024-01-31,19:43:00,Pengeluaran,Hiburan,-37043.0,E-wallet,2024-01
+2024-01-31,13:42:00,Pengeluaran,Hiburan,-34243.0,Transfer Bank,2024-01
+2024-02-01,11:29:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-02
+2024-02-01,21:23:00,Pengeluaran,Hiburan,-31411.0,Transfer Bank,2024-02
+2024-02-01,17:39:00,Pengeluaran,Belanja,-28680.0,Transfer Bank,2024-02
+2024-02-02,17:40:00,Pengeluaran,Transportasi,-31111.0,Kartu Kredit,2024-02
+2024-02-02,14:52:00,Pengeluaran,Hiburan,-28155.0,Transfer Bank,2024-02
+2024-02-03,19:43:00,Pengeluaran,Transportasi,-36646.0,E-wallet,2024-02
+2024-02-03,16:31:00,Pengeluaran,Transportasi,-45199.0,E-wallet,2024-02
+2024-02-03,21:56:00,Pengeluaran,Makanan,-22049.0,QRIS,2024-02
+2024-02-04,07:36:00,Pengeluaran,Belanja,-40932.0,Kartu Kredit,2024-02
+2024-02-04,07:08:00,Pengeluaran,Hiburan,-27158.0,Transfer Bank,2024-02
+2024-02-04,17:58:00,Pengeluaran,Makanan,-39554.0,QRIS,2024-02
+2024-02-05,09:31:00,Pengeluaran,Hiburan,-24499.0,Transfer Bank,2024-02
+2024-02-05,17:27:00,Pengeluaran,Makanan,-32183.0,QRIS,2024-02
+2024-02-05,13:59:00,Pengeluaran,Hiburan,-38032.0,Transfer Bank,2024-02
+2024-02-06,10:46:00,Pengeluaran,Belanja,-44829.0,Transfer Bank,2024-02
+2024-02-06,09:32:00,Pengeluaran,Makanan,-36482.0,Kartu Kredit,2024-02
+2024-02-06,21:55:00,Pengeluaran,Tagihan,-22961.0,Transfer Bank,2024-02
+2024-02-07,20:41:00,Pengeluaran,Transportasi,-31969.0,QRIS,2024-02
+2024-02-07,18:20:00,Pengeluaran,Hiburan,-48367.0,E-wallet,2024-02
+2024-02-07,16:39:00,Pengeluaran,Belanja,-44736.0,Transfer Bank,2024-02
+2024-02-08,15:23:00,Pengeluaran,Tagihan,-41295.0,Kartu Kredit,2024-02
+2024-02-08,17:39:00,Pengeluaran,Hiburan,-40880.0,E-wallet,2024-02
+2024-02-09,21:42:00,Pengeluaran,Belanja,-29146.0,Kartu Kredit,2024-02
+2024-02-09,14:17:00,Pengeluaran,Tagihan,-28754.0,Transfer Bank,2024-02
+2024-02-10,11:36:00,Pengeluaran,Hiburan,-36609.0,E-wallet,2024-02
+2024-02-10,15:00:00,Pengeluaran,Makanan,-27022.0,Transfer Bank,2024-02
+2024-02-10,20:48:00,Pengeluaran,Tagihan,-47643.0,Kartu Kredit,2024-02
+2024-02-11,16:06:00,Pengeluaran,Hiburan,-44067.0,QRIS,2024-02
+2024-02-11,07:16:00,Pengeluaran,Makanan,-27679.0,Transfer Bank,2024-02
+2024-02-11,09:37:00,Pengeluaran,Belanja,-45819.0,E-wallet,2024-02
+2024-02-12,08:38:00,Pengeluaran,Tagihan,-30757.0,Kartu Kredit,2024-02
+2024-02-12,11:39:00,Pengeluaran,Belanja,-21060.0,Transfer Bank,2024-02
+2024-02-13,10:00:00,Pengeluaran,Makanan,-20301.0,QRIS,2024-02
+2024-02-13,08:55:00,Pengeluaran,Hiburan,-20699.0,Transfer Bank,2024-02
+2024-02-14,09:40:00,Pengeluaran,Tagihan,-37364.0,QRIS,2024-02
+2024-02-14,07:17:00,Pengeluaran,Hiburan,-44703.0,Kartu Kredit,2024-02
+2024-02-15,16:25:00,Pengeluaran,Transportasi,-42238.0,QRIS,2024-02
+2024-02-15,21:31:00,Pengeluaran,Transportasi,-25442.0,E-wallet,2024-02
+2024-02-16,21:13:00,Pengeluaran,Transportasi,-27455.0,E-wallet,2024-02
+2024-02-16,09:34:00,Pengeluaran,Transportasi,-44190.0,Transfer Bank,2024-02
+2024-02-16,20:04:00,Pengeluaran,Transportasi,-21409.0,Kartu Kredit,2024-02
+2024-02-17,20:30:00,Pengeluaran,Makanan,-27560.0,QRIS,2024-02
+2024-02-17,19:38:00,Pengeluaran,Tagihan,-25801.0,QRIS,2024-02
+2024-02-17,20:37:00,Pengeluaran,Transportasi,-25986.0,Kartu Kredit,2024-02
+2024-02-18,15:25:00,Pengeluaran,Tagihan,-43355.0,E-wallet,2024-02
+2024-02-18,18:24:00,Pengeluaran,Makanan,-32323.0,Kartu Kredit,2024-02
+2024-02-19,15:31:00,Pengeluaran,Makanan,-32039.0,E-wallet,2024-02
+2024-02-19,14:50:00,Pengeluaran,Belanja,-42386.0,E-wallet,2024-02
+2024-02-19,20:19:00,Pengeluaran,Belanja,-33121.0,Kartu Kredit,2024-02
+2024-02-20,18:37:00,Pengeluaran,Hiburan,-48312.0,QRIS,2024-02
+2024-02-20,12:13:00,Pengeluaran,Tagihan,-42677.0,Transfer Bank,2024-02
+2024-02-21,18:21:00,Pengeluaran,Makanan,-29907.0,QRIS,2024-02
+2024-02-21,17:12:00,Pengeluaran,Hiburan,-22491.0,Transfer Bank,2024-02
+2024-02-21,07:52:00,Pengeluaran,Makanan,-34599.0,E-wallet,2024-02
+2024-02-22,07:04:00,Pengeluaran,Belanja,-35979.0,QRIS,2024-02
+2024-02-22,21:36:00,Pengeluaran,Belanja,-41253.0,QRIS,2024-02
+2024-02-22,21:26:00,Pengeluaran,Belanja,-24142.0,Transfer Bank,2024-02
+2024-02-23,10:54:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-02
+2024-02-23,11:28:00,Pengeluaran,Belanja,-26799.0,E-wallet,2024-02
+2024-02-23,08:45:00,Pengeluaran,Transportasi,-37019.0,QRIS,2024-02
+2024-02-23,08:59:00,Pengeluaran,Hiburan,-41136.0,E-wallet,2024-02
+2024-02-24,07:57:00,Pengeluaran,Hiburan,-48251.0,Transfer Bank,2024-02
+2024-02-24,14:53:00,Pengeluaran,Transportasi,-45316.0,Transfer Bank,2024-02
+2024-02-25,11:56:00,Pemasukan,Gaji,14000000.0,Transfer,2024-02
+2024-02-25,17:40:00,Pengeluaran,Makanan,-21931.0,E-wallet,2024-02
+2024-02-25,15:32:00,Pengeluaran,Transportasi,-49305.0,Kartu Kredit,2024-02
+2024-02-25,17:37:00,Pengeluaran,Transportasi,-33407.0,Kartu Kredit,2024-02
+2024-02-26,10:56:00,Pengeluaran,Makanan,-32775.0,Kartu Kredit,2024-02
+2024-02-26,11:31:00,Pengeluaran,Tagihan,-33184.0,Transfer Bank,2024-02
+2024-02-26,18:43:00,Pengeluaran,Tagihan,-40454.0,QRIS,2024-02
+2024-02-27,11:08:00,Pemasukan,Freelance,640734.0,Transfer,2024-02
+2024-02-27,08:15:00,Pengeluaran,Tagihan,-46870.0,QRIS,2024-02
+2024-02-27,14:14:00,Pengeluaran,Transportasi,-21679.0,Kartu Kredit,2024-02
+2024-02-27,18:36:00,Pengeluaran,Tagihan,-27253.0,Kartu Kredit,2024-02
+2024-02-28,07:46:00,Pengeluaran,Belanja,-41572.0,QRIS,2024-02
+2024-02-28,19:29:00,Pengeluaran,Makanan,-38525.0,Transfer Bank,2024-02
+2024-02-29,10:23:00,Pengeluaran,Belanja,-49124.0,E-wallet,2024-02
+2024-02-29,14:11:00,Pengeluaran,Transportasi,-43001.0,E-wallet,2024-02
+2024-02-29,17:11:00,Pengeluaran,Tagihan,-49222.0,Transfer Bank,2024-02
+2024-03-01,10:32:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-03
+2024-03-01,19:41:00,Pengeluaran,Tagihan,-46646.0,Kartu Kredit,2024-03
+2024-03-01,20:56:00,Pengeluaran,Transportasi,-34069.0,Transfer Bank,2024-03
+2024-03-01,09:59:00,Pengeluaran,Belanja,-22849.0,Transfer Bank,2024-03
+2024-03-02,17:58:00,Pengeluaran,Transportasi,-43289.0,Transfer Bank,2024-03
+2024-03-02,19:48:00,Pengeluaran,Transportasi,-29823.0,Transfer Bank,2024-03
+2024-03-03,15:35:00,Pengeluaran,Tagihan,-36364.0,Transfer Bank,2024-03
+2024-03-03,21:55:00,Pengeluaran,Transportasi,-49168.0,E-wallet,2024-03
+2024-03-03,18:03:00,Pengeluaran,Hiburan,-20851.0,Kartu Kredit,2024-03
+2024-03-04,13:19:00,Pengeluaran,Transportasi,-31938.0,Kartu Kredit,2024-03
+2024-03-04,18:30:00,Pengeluaran,Makanan,-24000.0,Transfer Bank,2024-03
+2024-03-04,11:27:00,Pengeluaran,Hiburan,-42116.0,Kartu Kredit,2024-03
+2024-03-05,09:47:00,Pengeluaran,Makanan,-25536.0,Kartu Kredit,2024-03
+2024-03-05,16:15:00,Pengeluaran,Transportasi,-37450.0,Kartu Kredit,2024-03
+2024-03-06,17:06:00,Pengeluaran,Tagihan,-40491.0,Transfer Bank,2024-03
+2024-03-06,19:33:00,Pengeluaran,Transportasi,-47122.0,Transfer Bank,2024-03
+2024-03-07,19:55:00,Pengeluaran,Makanan,-48761.0,Transfer Bank,2024-03
+2024-03-07,17:01:00,Pengeluaran,Tagihan,-36281.0,QRIS,2024-03
+2024-03-08,17:16:00,Pengeluaran,Transportasi,-44690.0,QRIS,2024-03
+2024-03-08,15:20:00,Pengeluaran,Belanja,-37209.0,Transfer Bank,2024-03
+2024-03-08,08:14:00,Pengeluaran,Transportasi,-46092.0,Transfer Bank,2024-03
+2024-03-09,11:36:00,Pengeluaran,Belanja,-20728.0,Transfer Bank,2024-03
+2024-03-09,18:15:00,Pengeluaran,Tagihan,-47384.0,E-wallet,2024-03
+2024-03-10,10:11:00,Pengeluaran,Tagihan,-38888.0,QRIS,2024-03
+2024-03-10,08:38:00,Pengeluaran,Hiburan,-36048.0,QRIS,2024-03
+2024-03-10,08:35:00,Pengeluaran,Belanja,-25073.0,QRIS,2024-03
+2024-03-11,13:08:00,Pengeluaran,Tagihan,-32043.0,QRIS,2024-03
+2024-03-11,10:36:00,Pengeluaran,Tagihan,-30518.0,QRIS,2024-03
+2024-03-11,20:17:00,Pengeluaran,Hiburan,-41352.0,Transfer Bank,2024-03
+2024-03-12,16:55:00,Pengeluaran,Makanan,-34397.0,E-wallet,2024-03
+2024-03-12,13:36:00,Pengeluaran,Makanan,-37749.0,Kartu Kredit,2024-03
+2024-03-13,17:11:00,Pengeluaran,Hiburan,-34512.0,Transfer Bank,2024-03
+2024-03-13,08:15:00,Pengeluaran,Belanja,-27400.0,Transfer Bank,2024-03
+2024-03-14,19:14:00,Pengeluaran,Belanja,-37101.0,Transfer Bank,2024-03
+2024-03-14,15:25:00,Pengeluaran,Belanja,-41330.0,QRIS,2024-03
+2024-03-15,08:38:00,Pengeluaran,Tagihan,-47716.0,Kartu Kredit,2024-03
+2024-03-15,21:50:00,Pengeluaran,Belanja,-43576.0,Transfer Bank,2024-03
+2024-03-16,09:30:00,Pengeluaran,Belanja,-40020.0,QRIS,2024-03
+2024-03-16,08:48:00,Pengeluaran,Makanan,-21062.0,Transfer Bank,2024-03
+2024-03-17,13:37:00,Pengeluaran,Transportasi,-41689.0,Kartu Kredit,2024-03
+2024-03-17,09:42:00,Pengeluaran,Transportasi,-29348.0,Kartu Kredit,2024-03
+2024-03-18,21:02:00,Pengeluaran,Tagihan,-24330.0,Kartu Kredit,2024-03
+2024-03-18,16:47:00,Pengeluaran,Transportasi,-24846.0,QRIS,2024-03
+2024-03-19,15:11:00,Pengeluaran,Transportasi,-37337.0,Transfer Bank,2024-03
+2024-03-19,10:49:00,Pengeluaran,Makanan,-31516.0,Kartu Kredit,2024-03
+2024-03-20,09:49:00,Pengeluaran,Tagihan,-37575.0,Kartu Kredit,2024-03
+2024-03-20,20:14:00,Pengeluaran,Makanan,-47569.0,Kartu Kredit,2024-03
+2024-03-21,07:28:00,Pengeluaran,Transportasi,-37924.0,QRIS,2024-03
+2024-03-21,12:38:00,Pengeluaran,Tagihan,-41925.0,E-wallet,2024-03
+2024-03-21,12:41:00,Pengeluaran,Tagihan,-46432.0,QRIS,2024-03
+2024-03-22,12:26:00,Pengeluaran,Makanan,-45086.0,QRIS,2024-03
+2024-03-22,09:11:00,Pengeluaran,Makanan,-21324.0,E-wallet,2024-03
+2024-03-22,11:11:00,Pengeluaran,Belanja,-23141.0,Kartu Kredit,2024-03
+2024-03-23,10:30:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-03
+2024-03-23,10:01:00,Pengeluaran,Tagihan,-39307.0,QRIS,2024-03
+2024-03-23,21:17:00,Pengeluaran,Hiburan,-45289.0,Transfer Bank,2024-03
+2024-03-24,17:52:00,Pengeluaran,Hiburan,-40652.0,QRIS,2024-03
+2024-03-24,17:37:00,Pengeluaran,Transportasi,-29435.0,Kartu Kredit,2024-03
+2024-03-25,10:57:00,Pemasukan,Gaji,7000000.0,Transfer,2024-03
+2024-03-25,20:48:00,Pengeluaran,Belanja,-45031.0,Kartu Kredit,2024-03
+2024-03-25,07:00:00,Pengeluaran,Makanan,-30150.0,Kartu Kredit,2024-03
+2024-03-25,12:47:00,Pengeluaran,Hiburan,-30188.0,QRIS,2024-03
+2024-03-26,15:27:00,Pengeluaran,Makanan,-21214.0,QRIS,2024-03
+2024-03-26,20:43:00,Pengeluaran,Makanan,-43960.0,QRIS,2024-03
+2024-03-26,08:56:00,Pengeluaran,Makanan,-25029.0,Kartu Kredit,2024-03
+2024-03-27,10:57:00,Pemasukan,Freelance,876965.0,Transfer,2024-03
+2024-03-27,20:48:00,Pengeluaran,Tagihan,-42700.0,QRIS,2024-03
+2024-03-27,21:45:00,Pengeluaran,Tagihan,-40559.0,Transfer Bank,2024-03
+2024-03-27,19:43:00,Pengeluaran,Tagihan,-48874.0,QRIS,2024-03
+2024-03-28,17:58:00,Pengeluaran,Belanja,-45826.0,Transfer Bank,2024-03
+2024-03-28,13:41:00,Pengeluaran,Belanja,-31704.0,Kartu Kredit,2024-03
+2024-03-29,15:45:00,Pengeluaran,Makanan,-39760.0,QRIS,2024-03
+2024-03-29,16:25:00,Pengeluaran,Makanan,-29588.0,Transfer Bank,2024-03
+2024-03-30,14:50:00,Pengeluaran,Hiburan,-39087.0,Kartu Kredit,2024-03
+2024-03-30,07:11:00,Pengeluaran,Makanan,-27114.0,Kartu Kredit,2024-03
+2024-03-30,20:03:00,Pengeluaran,Transportasi,-30975.0,Transfer Bank,2024-03
+2024-03-31,18:07:00,Pengeluaran,Belanja,-43959.0,Kartu Kredit,2024-03
+2024-03-31,09:01:00,Pengeluaran,Tagihan,-49703.0,Kartu Kredit,2024-03
+2024-03-31,08:29:00,Pengeluaran,Belanja,-43203.0,E-wallet,2024-03
+2024-04-01,10:07:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-04
+2024-04-01,19:11:00,Pengeluaran,Belanja,-20539.0,E-wallet,2024-04
+2024-04-01,19:19:00,Pengeluaran,Tagihan,-48712.0,QRIS,2024-04
+2024-04-01,09:24:00,Pengeluaran,Hiburan,-34837.0,E-wallet,2024-04
+2024-04-02,19:03:00,Pengeluaran,Makanan,-42516.0,Kartu Kredit,2024-04
+2024-04-02,19:31:00,Pengeluaran,Tagihan,-22779.0,Transfer Bank,2024-04
+2024-04-03,16:06:00,Pengeluaran,Tagihan,-21581.0,Transfer Bank,2024-04
+2024-04-03,16:53:00,Pengeluaran,Tagihan,-32677.0,Transfer Bank,2024-04
+2024-04-04,14:29:00,Pengeluaran,Tagihan,-38222.0,Kartu Kredit,2024-04
+2024-04-04,20:17:00,Pengeluaran,Transportasi,-39255.0,E-wallet,2024-04
+2024-04-05,07:04:00,Pengeluaran,Hiburan,-49548.0,E-wallet,2024-04
+2024-04-05,08:04:00,Pengeluaran,Makanan,-49045.0,Kartu Kredit,2024-04
+2024-04-05,10:58:00,Pengeluaran,Transportasi,-28415.0,Kartu Kredit,2024-04
+2024-04-06,11:41:00,Pengeluaran,Hiburan,-49524.0,E-wallet,2024-04
+2024-04-06,20:46:00,Pengeluaran,Makanan,-40309.0,Kartu Kredit,2024-04
+2024-04-07,17:09:00,Pengeluaran,Makanan,-33772.0,Transfer Bank,2024-04
+2024-04-07,15:30:00,Pengeluaran,Makanan,-27266.0,Kartu Kredit,2024-04
+2024-04-08,20:42:00,Pengeluaran,Tagihan,-28175.0,Kartu Kredit,2024-04
+2024-04-08,18:48:00,Pengeluaran,Belanja,-38384.0,E-wallet,2024-04
+2024-04-09,19:50:00,Pengeluaran,Tagihan,-25989.0,Kartu Kredit,2024-04
+2024-04-09,16:24:00,Pengeluaran,Tagihan,-43574.0,Kartu Kredit,2024-04
+2024-04-10,09:24:00,Pengeluaran,Transportasi,-40562.0,Transfer Bank,2024-04
+2024-04-10,14:36:00,Pengeluaran,Tagihan,-43629.0,E-wallet,2024-04
+2024-04-11,18:24:00,Pengeluaran,Makanan,-32338.0,Transfer Bank,2024-04
+2024-04-11,14:25:00,Pengeluaran,Tagihan,-44323.0,QRIS,2024-04
+2024-04-11,15:07:00,Pengeluaran,Makanan,-24976.0,Transfer Bank,2024-04
+2024-04-12,08:34:00,Pengeluaran,Transportasi,-23419.0,QRIS,2024-04
+2024-04-12,18:13:00,Pengeluaran,Transportasi,-36633.0,Transfer Bank,2024-04
+2024-04-12,12:05:00,Pengeluaran,Hiburan,-48538.0,Transfer Bank,2024-04
+2024-04-13,10:55:00,Pengeluaran,Makanan,-37461.0,Transfer Bank,2024-04
+2024-04-13,19:13:00,Pengeluaran,Tagihan,-47613.0,Kartu Kredit,2024-04
+2024-04-13,13:40:00,Pengeluaran,Hiburan,-30040.0,E-wallet,2024-04
+2024-04-14,16:37:00,Pengeluaran,Tagihan,-26996.0,QRIS,2024-04
+2024-04-14,08:42:00,Pengeluaran,Hiburan,-40914.0,QRIS,2024-04
+2024-04-14,20:25:00,Pengeluaran,Belanja,-26881.0,Transfer Bank,2024-04
+2024-04-15,20:17:00,Pengeluaran,Transportasi,-28017.0,QRIS,2024-04
+2024-04-15,14:26:00,Pengeluaran,Hiburan,-47058.0,E-wallet,2024-04
+2024-04-15,11:08:00,Pengeluaran,Transportasi,-37715.0,QRIS,2024-04
+2024-04-16,16:01:00,Pengeluaran,Makanan,-29550.0,Kartu Kredit,2024-04
+2024-04-16,08:20:00,Pengeluaran,Transportasi,-44114.0,Transfer Bank,2024-04
+2024-04-16,21:59:00,Pengeluaran,Tagihan,-24892.0,E-wallet,2024-04
+2024-04-17,20:04:00,Pengeluaran,Makanan,-41833.0,Kartu Kredit,2024-04
+2024-04-17,08:08:00,Pengeluaran,Belanja,-42355.0,Transfer Bank,2024-04
+2024-04-17,07:52:00,Pengeluaran,Transportasi,-27941.0,E-wallet,2024-04
+2024-04-18,19:26:00,Pengeluaran,Tagihan,-26269.0,Kartu Kredit,2024-04
+2024-04-18,21:42:00,Pengeluaran,Hiburan,-32015.0,E-wallet,2024-04
+2024-04-18,10:02:00,Pengeluaran,Makanan,-44214.0,QRIS,2024-04
+2024-04-19,15:39:00,Pengeluaran,Hiburan,-31637.0,Transfer Bank,2024-04
+2024-04-19,21:59:00,Pengeluaran,Belanja,-32647.0,Transfer Bank,2024-04
+2024-04-19,21:23:00,Pengeluaran,Makanan,-47842.0,Kartu Kredit,2024-04
+2024-04-20,18:11:00,Pengeluaran,Hiburan,-24188.0,Kartu Kredit,2024-04
+2024-04-20,17:33:00,Pengeluaran,Transportasi,-48732.0,QRIS,2024-04
+2024-04-21,07:04:00,Pengeluaran,Hiburan,-44340.0,QRIS,2024-04
+2024-04-21,18:21:00,Pengeluaran,Transportasi,-32891.0,QRIS,2024-04
+2024-04-22,15:32:00,Pengeluaran,Tagihan,-26981.0,E-wallet,2024-04
+2024-04-22,15:43:00,Pengeluaran,Tagihan,-26376.0,QRIS,2024-04
+2024-04-23,11:29:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-04
+2024-04-23,08:17:00,Pengeluaran,Transportasi,-30160.0,E-wallet,2024-04
+2024-04-23,08:12:00,Pengeluaran,Transportasi,-34124.0,Transfer Bank,2024-04
+2024-04-23,07:46:00,Pengeluaran,Transportasi,-30488.0,QRIS,2024-04
+2024-04-24,07:47:00,Pengeluaran,Hiburan,-39262.0,QRIS,2024-04
+2024-04-24,07:25:00,Pengeluaran,Tagihan,-24432.0,QRIS,2024-04
+2024-04-25,10:35:00,Pemasukan,Gaji,7000000.0,Transfer,2024-04
+2024-04-25,11:12:00,Pengeluaran,Makanan,-34178.0,Transfer Bank,2024-04
+2024-04-25,12:02:00,Pengeluaran,Belanja,-47342.0,Kartu Kredit,2024-04
+2024-04-26,08:17:00,Pengeluaran,Transportasi,-48699.0,QRIS,2024-04
+2024-04-26,18:05:00,Pengeluaran,Transportasi,-36748.0,E-wallet,2024-04
+2024-04-27,10:58:00,Pemasukan,Freelance,766765.0,Transfer,2024-04
+2024-04-27,07:02:00,Pengeluaran,Hiburan,-25126.0,Kartu Kredit,2024-04
+2024-04-27,15:27:00,Pengeluaran,Hiburan,-25870.0,Kartu Kredit,2024-04
+2024-04-27,15:25:00,Pengeluaran,Tagihan,-39729.0,Transfer Bank,2024-04
+2024-04-28,07:14:00,Pengeluaran,Hiburan,-21906.0,Kartu Kredit,2024-04
+2024-04-28,15:04:00,Pengeluaran,Makanan,-25750.0,QRIS,2024-04
+2024-04-28,07:38:00,Pengeluaran,Belanja,-45289.0,E-wallet,2024-04
+2024-04-29,08:25:00,Pengeluaran,Makanan,-49926.0,Kartu Kredit,2024-04
+2024-04-29,20:31:00,Pengeluaran,Transportasi,-36509.0,QRIS,2024-04
+2024-04-30,10:31:00,Pengeluaran,Makanan,-23596.0,QRIS,2024-04
+2024-04-30,13:33:00,Pengeluaran,Makanan,-29795.0,Transfer Bank,2024-04
+2024-05-01,11:06:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-05
+2024-05-01,08:50:00,Pengeluaran,Tagihan,-45745.0,Transfer Bank,2024-05
+2024-05-01,14:49:00,Pengeluaran,Belanja,-40590.0,QRIS,2024-05
+2024-05-02,16:54:00,Pengeluaran,Makanan,-43275.0,QRIS,2024-05
+2024-05-02,17:12:00,Pengeluaran,Transportasi,-22472.0,E-wallet,2024-05
+2024-05-02,12:19:00,Pengeluaran,Belanja,-41785.0,Transfer Bank,2024-05
+2024-05-03,12:14:00,Pengeluaran,Hiburan,-30167.0,Transfer Bank,2024-05
+2024-05-03,19:20:00,Pengeluaran,Tagihan,-34277.0,E-wallet,2024-05
+2024-05-03,14:16:00,Pengeluaran,Makanan,-45888.0,Kartu Kredit,2024-05
+2024-05-04,16:41:00,Pengeluaran,Tagihan,-38117.0,Kartu Kredit,2024-05
+2024-05-04,21:02:00,Pengeluaran,Belanja,-31613.0,QRIS,2024-05
+2024-05-04,21:58:00,Pengeluaran,Makanan,-33046.0,E-wallet,2024-05
+2024-05-05,10:42:00,Pengeluaran,Tagihan,-30787.0,Kartu Kredit,2024-05
+2024-05-05,19:11:00,Pengeluaran,Transportasi,-28659.0,QRIS,2024-05
+2024-05-06,17:45:00,Pengeluaran,Belanja,-42350.0,E-wallet,2024-05
+2024-05-06,15:23:00,Pengeluaran,Makanan,-33917.0,E-wallet,2024-05
+2024-05-07,10:13:00,Pengeluaran,Hiburan,-25560.0,QRIS,2024-05
+2024-05-07,07:25:00,Pengeluaran,Hiburan,-33703.0,E-wallet,2024-05
+2024-05-07,11:59:00,Pengeluaran,Hiburan,-42700.0,QRIS,2024-05
+2024-05-08,20:55:00,Pengeluaran,Transportasi,-29333.0,E-wallet,2024-05
+2024-05-08,10:44:00,Pengeluaran,Hiburan,-45299.0,E-wallet,2024-05
+2024-05-09,16:18:00,Pengeluaran,Makanan,-26283.0,E-wallet,2024-05
+2024-05-09,17:53:00,Pengeluaran,Makanan,-26233.0,E-wallet,2024-05
+2024-05-09,09:18:00,Pengeluaran,Tagihan,-21917.0,Kartu Kredit,2024-05
+2024-05-10,11:18:00,Pengeluaran,Belanja,-26988.0,QRIS,2024-05
+2024-05-10,18:29:00,Pengeluaran,Makanan,-45477.0,Kartu Kredit,2024-05
+2024-05-11,17:49:00,Pengeluaran,Transportasi,-36644.0,QRIS,2024-05
+2024-05-11,07:12:00,Pengeluaran,Belanja,-27041.0,E-wallet,2024-05
+2024-05-11,12:20:00,Pengeluaran,Transportasi,-21619.0,QRIS,2024-05
+2024-05-12,20:04:00,Pengeluaran,Tagihan,-30568.0,E-wallet,2024-05
+2024-05-12,16:09:00,Pengeluaran,Makanan,-38378.0,Transfer Bank,2024-05
+2024-05-13,08:34:00,Pengeluaran,Hiburan,-48253.0,Transfer Bank,2024-05
+2024-05-13,12:17:00,Pengeluaran,Makanan,-37988.0,Kartu Kredit,2024-05
+2024-05-14,12:33:00,Pengeluaran,Belanja,-30161.0,E-wallet,2024-05
+2024-05-14,14:38:00,Pengeluaran,Tagihan,-28567.0,Transfer Bank,2024-05
+2024-05-14,16:06:00,Pengeluaran,Makanan,-39019.0,E-wallet,2024-05
+2024-05-15,12:48:00,Pengeluaran,Belanja,-25951.0,Kartu Kredit,2024-05
+2024-05-15,10:48:00,Pengeluaran,Hiburan,-29064.0,Kartu Kredit,2024-05
+2024-05-16,11:50:00,Pengeluaran,Belanja,-43325.0,Kartu Kredit,2024-05
+2024-05-16,07:04:00,Pengeluaran,Tagihan,-35524.0,E-wallet,2024-05
+2024-05-16,08:17:00,Pengeluaran,Hiburan,-43930.0,E-wallet,2024-05
+2024-05-17,19:28:00,Pengeluaran,Belanja,-36984.0,Kartu Kredit,2024-05
+2024-05-17,13:41:00,Pengeluaran,Transportasi,-38520.0,QRIS,2024-05
+2024-05-17,14:01:00,Pengeluaran,Hiburan,-27804.0,Transfer Bank,2024-05
+2024-05-18,09:24:00,Pengeluaran,Makanan,-39096.0,E-wallet,2024-05
+2024-05-18,15:22:00,Pengeluaran,Makanan,-31246.0,E-wallet,2024-05
+2024-05-19,08:43:00,Pengeluaran,Tagihan,-23687.0,Kartu Kredit,2024-05
+2024-05-19,10:17:00,Pengeluaran,Hiburan,-31302.0,Kartu Kredit,2024-05
+2024-05-19,16:13:00,Pengeluaran,Hiburan,-37586.0,Kartu Kredit,2024-05
+2024-05-20,17:22:00,Pengeluaran,Belanja,-35374.0,Transfer Bank,2024-05
+2024-05-20,14:57:00,Pengeluaran,Tagihan,-25408.0,QRIS,2024-05
+2024-05-20,09:36:00,Pengeluaran,Hiburan,-20419.0,QRIS,2024-05
+2024-05-21,13:50:00,Pengeluaran,Makanan,-21120.0,E-wallet,2024-05
+2024-05-21,10:15:00,Pengeluaran,Makanan,-25373.0,Kartu Kredit,2024-05
+2024-05-21,17:34:00,Pengeluaran,Transportasi,-24612.0,E-wallet,2024-05
+2024-05-22,20:25:00,Pengeluaran,Makanan,-33429.0,Kartu Kredit,2024-05
+2024-05-22,20:34:00,Pengeluaran,Tagihan,-43710.0,QRIS,2024-05
+2024-05-22,18:35:00,Pengeluaran,Belanja,-26359.0,E-wallet,2024-05
+2024-05-23,10:14:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-05
+2024-05-23,07:46:00,Pengeluaran,Tagihan,-47804.0,Transfer Bank,2024-05
+2024-05-23,18:24:00,Pengeluaran,Belanja,-22891.0,Transfer Bank,2024-05
+2024-05-24,17:26:00,Pengeluaran,Hiburan,-36478.0,QRIS,2024-05
+2024-05-24,11:51:00,Pengeluaran,Hiburan,-30147.0,Transfer Bank,2024-05
+2024-05-24,11:42:00,Pengeluaran,Transportasi,-46410.0,Kartu Kredit,2024-05
+2024-05-25,11:08:00,Pemasukan,Gaji,7000000.0,Transfer,2024-05
+2024-05-25,21:01:00,Pengeluaran,Hiburan,-47901.0,Kartu Kredit,2024-05
+2024-05-25,13:02:00,Pengeluaran,Transportasi,-30541.0,QRIS,2024-05
+2024-05-25,09:20:00,Pengeluaran,Belanja,-30457.0,E-wallet,2024-05
+2024-05-26,17:22:00,Pengeluaran,Transportasi,-37368.0,QRIS,2024-05
+2024-05-26,14:39:00,Pengeluaran,Belanja,-47306.0,Transfer Bank,2024-05
+2024-05-26,12:23:00,Pengeluaran,Belanja,-24451.0,QRIS,2024-05
+2024-05-27,11:59:00,Pemasukan,Freelance,695716.0,Transfer,2024-05
+2024-05-27,17:03:00,Pengeluaran,Transportasi,-47632.0,E-wallet,2024-05
+2024-05-27,07:50:00,Pengeluaran,Transportasi,-42408.0,Transfer Bank,2024-05
+2024-05-28,19:58:00,Pengeluaran,Makanan,-23797.0,Transfer Bank,2024-05
+2024-05-28,17:12:00,Pengeluaran,Makanan,-31053.0,QRIS,2024-05
+2024-05-29,13:59:00,Pengeluaran,Transportasi,-21645.0,Transfer Bank,2024-05
+2024-05-29,20:50:00,Pengeluaran,Makanan,-23072.0,QRIS,2024-05
+2024-05-30,18:00:00,Pengeluaran,Hiburan,-41415.0,QRIS,2024-05
+2024-05-30,09:16:00,Pengeluaran,Makanan,-29524.0,Kartu Kredit,2024-05
+2024-05-30,12:12:00,Pengeluaran,Transportasi,-39891.0,Transfer Bank,2024-05
+2024-05-31,20:22:00,Pengeluaran,Transportasi,-33224.0,Transfer Bank,2024-05
+2024-05-31,17:01:00,Pengeluaran,Belanja,-36920.0,Kartu Kredit,2024-05
+2024-06-01,11:14:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-06
+2024-06-01,10:29:00,Pengeluaran,Transportasi,-28070.0,Kartu Kredit,2024-06
+2024-06-01,12:46:00,Pengeluaran,Hiburan,-44993.0,Kartu Kredit,2024-06
+2024-06-01,21:35:00,Pengeluaran,Makanan,-26783.0,Kartu Kredit,2024-06
+2024-06-02,18:03:00,Pengeluaran,Hiburan,-37589.0,Kartu Kredit,2024-06
+2024-06-02,09:59:00,Pengeluaran,Makanan,-21990.0,QRIS,2024-06
+2024-06-03,09:40:00,Pengeluaran,Tagihan,-42359.0,E-wallet,2024-06
+2024-06-03,08:02:00,Pengeluaran,Makanan,-24380.0,QRIS,2024-06
+2024-06-03,18:05:00,Pengeluaran,Hiburan,-24757.0,Kartu Kredit,2024-06
+2024-06-04,07:48:00,Pengeluaran,Transportasi,-25588.0,QRIS,2024-06
+2024-06-04,13:00:00,Pengeluaran,Makanan,-33395.0,QRIS,2024-06
+2024-06-04,17:29:00,Pengeluaran,Makanan,-24243.0,QRIS,2024-06
+2024-06-05,18:40:00,Pengeluaran,Belanja,-41566.0,E-wallet,2024-06
+2024-06-05,19:48:00,Pengeluaran,Makanan,-40806.0,Transfer Bank,2024-06
+2024-06-05,10:34:00,Pengeluaran,Tagihan,-29181.0,E-wallet,2024-06
+2024-06-06,19:02:00,Pengeluaran,Hiburan,-20951.0,Kartu Kredit,2024-06
+2024-06-06,14:08:00,Pengeluaran,Tagihan,-47952.0,E-wallet,2024-06
+2024-06-07,19:48:00,Pengeluaran,Hiburan,-38449.0,Kartu Kredit,2024-06
+2024-06-07,10:13:00,Pengeluaran,Hiburan,-35534.0,QRIS,2024-06
+2024-06-08,08:53:00,Pengeluaran,Belanja,-25232.0,Transfer Bank,2024-06
+2024-06-08,17:43:00,Pengeluaran,Hiburan,-41310.0,E-wallet,2024-06
+2024-06-08,07:54:00,Pengeluaran,Makanan,-39719.0,Transfer Bank,2024-06
+2024-06-09,19:57:00,Pengeluaran,Hiburan,-33087.0,QRIS,2024-06
+2024-06-09,09:41:00,Pengeluaran,Transportasi,-30093.0,QRIS,2024-06
+2024-06-10,07:54:00,Pengeluaran,Makanan,-34422.0,QRIS,2024-06
+2024-06-10,09:57:00,Pengeluaran,Belanja,-46399.0,Kartu Kredit,2024-06
+2024-06-10,20:52:00,Pengeluaran,Tagihan,-31271.0,QRIS,2024-06
+2024-06-11,14:22:00,Pengeluaran,Hiburan,-34295.0,Transfer Bank,2024-06
+2024-06-11,07:53:00,Pengeluaran,Tagihan,-28519.0,E-wallet,2024-06
+2024-06-12,07:50:00,Pengeluaran,Tagihan,-26722.0,Kartu Kredit,2024-06
+2024-06-12,11:23:00,Pengeluaran,Makanan,-40059.0,E-wallet,2024-06
+2024-06-13,08:27:00,Pengeluaran,Hiburan,-22143.0,Kartu Kredit,2024-06
+2024-06-13,14:31:00,Pengeluaran,Hiburan,-32175.0,Transfer Bank,2024-06
+2024-06-13,10:01:00,Pengeluaran,Belanja,-28356.0,Transfer Bank,2024-06
+2024-06-14,12:29:00,Pengeluaran,Transportasi,-26150.0,Transfer Bank,2024-06
+2024-06-14,08:24:00,Pengeluaran,Makanan,-22198.0,Transfer Bank,2024-06
+2024-06-15,16:07:00,Pengeluaran,Tagihan,-29106.0,QRIS,2024-06
+2024-06-15,15:33:00,Pengeluaran,Tagihan,-40561.0,E-wallet,2024-06
+2024-06-16,15:42:00,Pengeluaran,Tagihan,-42419.0,QRIS,2024-06
+2024-06-16,13:25:00,Pengeluaran,Transportasi,-35358.0,QRIS,2024-06
+2024-06-17,11:20:00,Pengeluaran,Belanja,-37939.0,Transfer Bank,2024-06
+2024-06-17,11:15:00,Pengeluaran,Tagihan,-33221.0,QRIS,2024-06
+2024-06-18,21:26:00,Pengeluaran,Makanan,-49748.0,QRIS,2024-06
+2024-06-18,21:13:00,Pengeluaran,Belanja,-48153.0,E-wallet,2024-06
+2024-06-18,16:52:00,Pengeluaran,Belanja,-49975.0,Transfer Bank,2024-06
+2024-06-19,19:06:00,Pengeluaran,Hiburan,-44557.0,QRIS,2024-06
+2024-06-19,08:54:00,Pengeluaran,Makanan,-48529.0,Kartu Kredit,2024-06
+2024-06-19,15:40:00,Pengeluaran,Makanan,-22573.0,QRIS,2024-06
+2024-06-20,11:40:00,Pengeluaran,Transportasi,-28428.0,Kartu Kredit,2024-06
+2024-06-20,11:37:00,Pengeluaran,Makanan,-42261.0,E-wallet,2024-06
+2024-06-20,07:03:00,Pengeluaran,Hiburan,-38925.0,Kartu Kredit,2024-06
+2024-06-21,08:48:00,Pengeluaran,Transportasi,-46652.0,E-wallet,2024-06
+2024-06-21,20:24:00,Pengeluaran,Transportasi,-48374.0,QRIS,2024-06
+2024-06-21,09:25:00,Pengeluaran,Hiburan,-43365.0,Kartu Kredit,2024-06
+2024-06-22,12:55:00,Pengeluaran,Tagihan,-46665.0,Kartu Kredit,2024-06
+2024-06-22,07:16:00,Pengeluaran,Makanan,-46657.0,E-wallet,2024-06
+2024-06-22,13:17:00,Pengeluaran,Tagihan,-43525.0,QRIS,2024-06
+2024-06-23,11:15:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-06
+2024-06-23,12:41:00,Pengeluaran,Tagihan,-28041.0,Kartu Kredit,2024-06
+2024-06-23,20:44:00,Pengeluaran,Tagihan,-38458.0,E-wallet,2024-06
+2024-06-24,17:09:00,Pengeluaran,Hiburan,-24263.0,Kartu Kredit,2024-06
+2024-06-24,20:40:00,Pengeluaran,Belanja,-34060.0,Transfer Bank,2024-06
+2024-06-25,11:10:00,Pemasukan,Gaji,7000000.0,Transfer,2024-06
+2024-06-25,14:55:00,Pengeluaran,Tagihan,-31664.0,QRIS,2024-06
+2024-06-25,16:35:00,Pengeluaran,Transportasi,-23629.0,Transfer Bank,2024-06
+2024-06-25,20:41:00,Pengeluaran,Transportasi,-23067.0,QRIS,2024-06
+2024-06-26,18:32:00,Pengeluaran,Makanan,-39250.0,E-wallet,2024-06
+2024-06-26,20:13:00,Pengeluaran,Belanja,-41874.0,Kartu Kredit,2024-06
+2024-06-27,10:20:00,Pemasukan,Freelance,553276.0,Transfer,2024-06
+2024-06-27,18:15:00,Pengeluaran,Hiburan,-44063.0,Kartu Kredit,2024-06
+2024-06-27,20:26:00,Pengeluaran,Makanan,-44762.0,Kartu Kredit,2024-06
+2024-06-28,08:37:00,Pengeluaran,Hiburan,-37717.0,Kartu Kredit,2024-06
+2024-06-28,11:48:00,Pengeluaran,Tagihan,-43863.0,QRIS,2024-06
+2024-06-28,19:30:00,Pengeluaran,Transportasi,-27715.0,QRIS,2024-06
+2024-06-29,11:03:00,Pengeluaran,Hiburan,-21762.0,E-wallet,2024-06
+2024-06-29,15:26:00,Pengeluaran,Hiburan,-32112.0,Transfer Bank,2024-06
+2024-06-29,15:01:00,Pengeluaran,Tagihan,-26122.0,Transfer Bank,2024-06
+2024-06-30,15:20:00,Pengeluaran,Transportasi,-27617.0,QRIS,2024-06
+2024-06-30,11:55:00,Pengeluaran,Makanan,-35048.0,E-wallet,2024-06
+2024-07-01,10:16:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-07
+2024-07-01,17:15:00,Pengeluaran,Makanan,-20060.0,Transfer Bank,2024-07
+2024-07-01,07:38:00,Pengeluaran,Transportasi,-32312.0,QRIS,2024-07
+2024-07-02,10:48:00,Pengeluaran,Hiburan,-48145.0,QRIS,2024-07
+2024-07-02,14:14:00,Pengeluaran,Belanja,-28363.0,Kartu Kredit,2024-07
+2024-07-03,11:34:00,Pengeluaran,Transportasi,-43051.0,Kartu Kredit,2024-07
+2024-07-03,20:36:00,Pengeluaran,Tagihan,-47691.0,QRIS,2024-07
+2024-07-03,12:29:00,Pengeluaran,Tagihan,-41520.0,Transfer Bank,2024-07
+2024-07-04,07:11:00,Pengeluaran,Makanan,-44366.0,Kartu Kredit,2024-07
+2024-07-04,18:00:00,Pengeluaran,Hiburan,-25895.0,E-wallet,2024-07
+2024-07-05,18:49:00,Pengeluaran,Tagihan,-22421.0,Transfer Bank,2024-07
+2024-07-05,08:28:00,Pengeluaran,Makanan,-42993.0,QRIS,2024-07
+2024-07-06,15:08:00,Pengeluaran,Hiburan,-40377.0,QRIS,2024-07
+2024-07-06,07:46:00,Pengeluaran,Tagihan,-33849.0,E-wallet,2024-07
+2024-07-06,18:50:00,Pengeluaran,Transportasi,-49711.0,E-wallet,2024-07
+2024-07-07,08:25:00,Pengeluaran,Transportasi,-43508.0,E-wallet,2024-07
+2024-07-07,20:01:00,Pengeluaran,Transportasi,-36774.0,Kartu Kredit,2024-07
+2024-07-08,09:16:00,Pengeluaran,Tagihan,-44070.0,QRIS,2024-07
+2024-07-08,20:59:00,Pengeluaran,Hiburan,-35023.0,Kartu Kredit,2024-07
+2024-07-09,14:56:00,Pengeluaran,Hiburan,-49398.0,QRIS,2024-07
+2024-07-09,13:11:00,Pengeluaran,Transportasi,-23294.0,QRIS,2024-07
+2024-07-09,14:22:00,Pengeluaran,Hiburan,-24497.0,Kartu Kredit,2024-07
+2024-07-10,09:38:00,Pengeluaran,Makanan,-44077.0,Transfer Bank,2024-07
+2024-07-10,10:07:00,Pengeluaran,Hiburan,-22667.0,Transfer Bank,2024-07
+2024-07-10,09:10:00,Pengeluaran,Tagihan,-33409.0,QRIS,2024-07
+2024-07-11,10:02:00,Pengeluaran,Hiburan,-22983.0,E-wallet,2024-07
+2024-07-11,15:46:00,Pengeluaran,Belanja,-28230.0,E-wallet,2024-07
+2024-07-12,12:48:00,Pengeluaran,Makanan,-31779.0,Kartu Kredit,2024-07
+2024-07-12,19:01:00,Pengeluaran,Makanan,-27564.0,QRIS,2024-07
+2024-07-12,15:12:00,Pengeluaran,Makanan,-48687.0,QRIS,2024-07
+2024-07-13,14:29:00,Pengeluaran,Belanja,-35229.0,Kartu Kredit,2024-07
+2024-07-13,16:05:00,Pengeluaran,Hiburan,-39625.0,Transfer Bank,2024-07
+2024-07-13,20:00:00,Pengeluaran,Hiburan,-49430.0,Transfer Bank,2024-07
+2024-07-14,17:07:00,Pengeluaran,Transportasi,-35775.0,E-wallet,2024-07
+2024-07-14,20:33:00,Pengeluaran,Hiburan,-27206.0,Transfer Bank,2024-07
+2024-07-15,14:56:00,Pengeluaran,Tagihan,-49629.0,QRIS,2024-07
+2024-07-15,18:36:00,Pengeluaran,Tagihan,-49419.0,E-wallet,2024-07
+2024-07-15,13:16:00,Pengeluaran,Belanja,-45838.0,E-wallet,2024-07
+2024-07-16,12:58:00,Pengeluaran,Makanan,-44574.0,QRIS,2024-07
+2024-07-16,16:36:00,Pengeluaran,Belanja,-32676.0,E-wallet,2024-07
+2024-07-16,14:08:00,Pengeluaran,Makanan,-22050.0,E-wallet,2024-07
+2024-07-17,09:25:00,Pengeluaran,Transportasi,-42851.0,E-wallet,2024-07
+2024-07-17,14:11:00,Pengeluaran,Tagihan,-27832.0,Transfer Bank,2024-07
+2024-07-17,16:44:00,Pengeluaran,Makanan,-44557.0,Kartu Kredit,2024-07
+2024-07-18,12:43:00,Pengeluaran,Makanan,-44440.0,E-wallet,2024-07
+2024-07-18,20:24:00,Pengeluaran,Belanja,-30426.0,Kartu Kredit,2024-07
+2024-07-19,13:19:00,Pengeluaran,Tagihan,-29130.0,QRIS,2024-07
+2024-07-19,21:04:00,Pengeluaran,Hiburan,-49757.0,Transfer Bank,2024-07
+2024-07-20,16:23:00,Pengeluaran,Makanan,-44262.0,QRIS,2024-07
+2024-07-20,16:43:00,Pengeluaran,Belanja,-42074.0,Transfer Bank,2024-07
+2024-07-20,16:34:00,Pengeluaran,Belanja,-36220.0,QRIS,2024-07
+2024-07-21,13:05:00,Pengeluaran,Tagihan,-23564.0,Transfer Bank,2024-07
+2024-07-21,10:45:00,Pengeluaran,Transportasi,-27274.0,E-wallet,2024-07
+2024-07-21,19:32:00,Pengeluaran,Makanan,-38649.0,Kartu Kredit,2024-07
+2024-07-22,19:53:00,Pengeluaran,Hiburan,-34199.0,Kartu Kredit,2024-07
+2024-07-22,07:53:00,Pengeluaran,Tagihan,-38180.0,E-wallet,2024-07
+2024-07-22,08:38:00,Pengeluaran,Makanan,-33832.0,Transfer Bank,2024-07
+2024-07-23,10:19:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-07
+2024-07-23,21:50:00,Pengeluaran,Makanan,-46172.0,QRIS,2024-07
+2024-07-23,18:29:00,Pengeluaran,Transportasi,-38850.0,E-wallet,2024-07
+2024-07-23,09:24:00,Pengeluaran,Transportasi,-46685.0,QRIS,2024-07
+2024-07-24,19:18:00,Pengeluaran,Hiburan,-48831.0,Transfer Bank,2024-07
+2024-07-24,21:52:00,Pengeluaran,Tagihan,-27287.0,QRIS,2024-07
+2024-07-24,16:39:00,Pengeluaran,Makanan,-46952.0,Transfer Bank,2024-07
+2024-07-25,10:13:00,Pemasukan,Gaji,7000000.0,Transfer,2024-07
+2024-07-25,17:16:00,Pengeluaran,Transportasi,-37674.0,QRIS,2024-07
+2024-07-25,16:00:00,Pengeluaran,Hiburan,-30874.0,QRIS,2024-07
+2024-07-26,19:17:00,Pengeluaran,Hiburan,-25016.0,E-wallet,2024-07
+2024-07-26,15:40:00,Pengeluaran,Belanja,-48841.0,Kartu Kredit,2024-07
+2024-07-27,10:39:00,Pemasukan,Freelance,808686.0,Transfer,2024-07
+2024-07-27,10:45:00,Pengeluaran,Tagihan,-45994.0,Kartu Kredit,2024-07
+2024-07-27,07:37:00,Pengeluaran,Belanja,-20974.0,Kartu Kredit,2024-07
+2024-07-28,09:55:00,Pengeluaran,Hiburan,-23972.0,QRIS,2024-07
+2024-07-28,14:33:00,Pengeluaran,Transportasi,-29105.0,Transfer Bank,2024-07
+2024-07-28,18:27:00,Pengeluaran,Tagihan,-47963.0,Transfer Bank,2024-07
+2024-07-29,16:52:00,Pengeluaran,Belanja,-40420.0,Transfer Bank,2024-07
+2024-07-29,12:00:00,Pengeluaran,Transportasi,-47687.0,QRIS,2024-07
+2024-07-30,18:37:00,Pengeluaran,Tagihan,-38546.0,QRIS,2024-07
+2024-07-30,07:39:00,Pengeluaran,Hiburan,-21591.0,Transfer Bank,2024-07
+2024-07-30,21:18:00,Pengeluaran,Transportasi,-26183.0,Kartu Kredit,2024-07
+2024-07-31,11:21:00,Pengeluaran,Tagihan,-21312.0,E-wallet,2024-07
+2024-07-31,09:47:00,Pengeluaran,Hiburan,-38767.0,QRIS,2024-07
+2024-08-01,11:31:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-08
+2024-08-01,20:00:00,Pengeluaran,Hiburan,-38088.0,E-wallet,2024-08
+2024-08-01,12:44:00,Pengeluaran,Hiburan,-38988.0,E-wallet,2024-08
+2024-08-02,10:10:00,Pengeluaran,Transportasi,-49027.0,E-wallet,2024-08
+2024-08-02,18:39:00,Pengeluaran,Hiburan,-22469.0,QRIS,2024-08
+2024-08-03,16:16:00,Pengeluaran,Tagihan,-36106.0,Kartu Kredit,2024-08
+2024-08-03,07:30:00,Pengeluaran,Transportasi,-22808.0,E-wallet,2024-08
+2024-08-04,18:11:00,Pengeluaran,Transportasi,-27561.0,QRIS,2024-08
+2024-08-04,18:09:00,Pengeluaran,Hiburan,-31700.0,Kartu Kredit,2024-08
+2024-08-05,11:17:00,Pengeluaran,Transportasi,-38787.0,Kartu Kredit,2024-08
+2024-08-05,15:43:00,Pengeluaran,Tagihan,-46588.0,Transfer Bank,2024-08
+2024-08-06,15:44:00,Pengeluaran,Transportasi,-41727.0,Kartu Kredit,2024-08
+2024-08-06,10:52:00,Pengeluaran,Hiburan,-21136.0,QRIS,2024-08
+2024-08-07,14:27:00,Pengeluaran,Transportasi,-32987.0,E-wallet,2024-08
+2024-08-07,12:25:00,Pengeluaran,Tagihan,-49346.0,QRIS,2024-08
+2024-08-08,10:43:00,Pengeluaran,Transportasi,-41736.0,E-wallet,2024-08
+2024-08-08,13:51:00,Pengeluaran,Transportasi,-48478.0,Kartu Kredit,2024-08
+2024-08-09,11:37:00,Pengeluaran,Tagihan,-25084.0,Kartu Kredit,2024-08
+2024-08-09,21:23:00,Pengeluaran,Belanja,-27059.0,Kartu Kredit,2024-08
+2024-08-09,12:23:00,Pengeluaran,Belanja,-37649.0,Kartu Kredit,2024-08
+2024-08-10,13:40:00,Pengeluaran,Makanan,-34859.0,Transfer Bank,2024-08
+2024-08-10,18:44:00,Pengeluaran,Transportasi,-29077.0,Transfer Bank,2024-08
+2024-08-11,10:29:00,Pengeluaran,Transportasi,-31383.0,QRIS,2024-08
+2024-08-11,18:43:00,Pengeluaran,Transportasi,-43821.0,QRIS,2024-08
+2024-08-11,18:15:00,Pengeluaran,Tagihan,-41195.0,Transfer Bank,2024-08
+2024-08-12,13:20:00,Pengeluaran,Hiburan,-41427.0,Transfer Bank,2024-08
+2024-08-12,07:28:00,Pengeluaran,Belanja,-41510.0,QRIS,2024-08
+2024-08-13,21:38:00,Pengeluaran,Makanan,-27813.0,Kartu Kredit,2024-08
+2024-08-13,16:29:00,Pengeluaran,Hiburan,-47082.0,Transfer Bank,2024-08
+2024-08-14,14:09:00,Pengeluaran,Transportasi,-31745.0,Transfer Bank,2024-08
+2024-08-14,15:35:00,Pengeluaran,Transportasi,-23356.0,Transfer Bank,2024-08
+2024-08-15,15:08:00,Pengeluaran,Hiburan,-26540.0,Kartu Kredit,2024-08
+2024-08-15,08:14:00,Pengeluaran,Tagihan,-30396.0,Transfer Bank,2024-08
+2024-08-16,08:23:00,Pengeluaran,Transportasi,-33998.0,QRIS,2024-08
+2024-08-16,18:46:00,Pengeluaran,Hiburan,-42042.0,QRIS,2024-08
+2024-08-16,19:27:00,Pengeluaran,Makanan,-31645.0,Transfer Bank,2024-08
+2024-08-17,07:20:00,Pengeluaran,Belanja,-20988.0,E-wallet,2024-08
+2024-08-17,08:23:00,Pengeluaran,Tagihan,-48602.0,E-wallet,2024-08
+2024-08-17,11:16:00,Pengeluaran,Hiburan,-25626.0,E-wallet,2024-08
+2024-08-18,15:46:00,Pengeluaran,Belanja,-37317.0,E-wallet,2024-08
+2024-08-18,09:42:00,Pengeluaran,Transportasi,-21980.0,Transfer Bank,2024-08
+2024-08-18,20:11:00,Pengeluaran,Makanan,-28984.0,Kartu Kredit,2024-08
+2024-08-19,15:11:00,Pengeluaran,Transportasi,-25390.0,Kartu Kredit,2024-08
+2024-08-19,07:59:00,Pengeluaran,Hiburan,-21607.0,QRIS,2024-08
+2024-08-19,17:04:00,Pengeluaran,Makanan,-25776.0,Kartu Kredit,2024-08
+2024-08-20,16:21:00,Pengeluaran,Hiburan,-33997.0,Transfer Bank,2024-08
+2024-08-20,13:26:00,Pengeluaran,Belanja,-26342.0,Transfer Bank,2024-08
+2024-08-21,15:55:00,Pengeluaran,Belanja,-28884.0,Kartu Kredit,2024-08
+2024-08-21,21:58:00,Pengeluaran,Belanja,-40857.0,E-wallet,2024-08
+2024-08-22,10:25:00,Pengeluaran,Makanan,-35069.0,E-wallet,2024-08
+2024-08-22,10:55:00,Pengeluaran,Makanan,-48541.0,Kartu Kredit,2024-08
+2024-08-22,15:40:00,Pengeluaran,Belanja,-21763.0,E-wallet,2024-08
+2024-08-23,10:37:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-08
+2024-08-23,20:50:00,Pengeluaran,Makanan,-43483.0,Transfer Bank,2024-08
+2024-08-23,13:25:00,Pengeluaran,Tagihan,-36500.0,QRIS,2024-08
+2024-08-23,18:56:00,Pengeluaran,Hiburan,-49759.0,Transfer Bank,2024-08
+2024-08-24,12:19:00,Pengeluaran,Tagihan,-44849.0,Kartu Kredit,2024-08
+2024-08-24,15:14:00,Pengeluaran,Transportasi,-37773.0,QRIS,2024-08
+2024-08-25,11:34:00,Pemasukan,Gaji,7000000.0,Transfer,2024-08
+2024-08-25,19:08:00,Pengeluaran,Hiburan,-41804.0,QRIS,2024-08
+2024-08-25,08:41:00,Pengeluaran,Makanan,-38427.0,E-wallet,2024-08
+2024-08-25,10:33:00,Pengeluaran,Makanan,-37162.0,Kartu Kredit,2024-08
+2024-08-26,16:47:00,Pengeluaran,Makanan,-30640.0,Transfer Bank,2024-08
+2024-08-26,18:11:00,Pengeluaran,Makanan,-39501.0,E-wallet,2024-08
+2024-08-27,11:19:00,Pemasukan,Freelance,745198.0,Transfer,2024-08
+2024-08-27,18:12:00,Pengeluaran,Belanja,-36019.0,E-wallet,2024-08
+2024-08-27,11:01:00,Pengeluaran,Transportasi,-29127.0,Transfer Bank,2024-08
+2024-08-27,07:01:00,Pengeluaran,Belanja,-44416.0,E-wallet,2024-08
+2024-08-28,16:48:00,Pengeluaran,Makanan,-34056.0,E-wallet,2024-08
+2024-08-28,08:42:00,Pengeluaran,Belanja,-44217.0,Transfer Bank,2024-08
+2024-08-29,09:01:00,Pengeluaran,Transportasi,-38093.0,QRIS,2024-08
+2024-08-29,08:45:00,Pengeluaran,Transportasi,-48814.0,Transfer Bank,2024-08
+2024-08-29,12:16:00,Pengeluaran,Belanja,-38279.0,Transfer Bank,2024-08
+2024-08-30,07:08:00,Pengeluaran,Hiburan,-21925.0,E-wallet,2024-08
+2024-08-30,13:55:00,Pengeluaran,Makanan,-46846.0,E-wallet,2024-08
+2024-08-31,11:23:00,Pengeluaran,Transportasi,-45291.0,QRIS,2024-08
+2024-08-31,08:23:00,Pengeluaran,Transportasi,-23389.0,QRIS,2024-08
+2024-09-01,11:01:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-09
+2024-09-01,07:06:00,Pengeluaran,Hiburan,-22430.0,Kartu Kredit,2024-09
+2024-09-01,10:27:00,Pengeluaran,Hiburan,-33395.0,E-wallet,2024-09
+2024-09-02,13:49:00,Pengeluaran,Transportasi,-36405.0,QRIS,2024-09
+2024-09-02,20:28:00,Pengeluaran,Hiburan,-43678.0,Transfer Bank,2024-09
+2024-09-02,07:13:00,Pengeluaran,Belanja,-49545.0,E-wallet,2024-09
+2024-09-03,07:11:00,Pengeluaran,Transportasi,-35349.0,Kartu Kredit,2024-09
+2024-09-03,15:56:00,Pengeluaran,Belanja,-47532.0,Kartu Kredit,2024-09
+2024-09-04,09:26:00,Pengeluaran,Hiburan,-46745.0,Kartu Kredit,2024-09
+2024-09-04,19:12:00,Pengeluaran,Belanja,-24780.0,Kartu Kredit,2024-09
+2024-09-05,11:47:00,Pengeluaran,Tagihan,-24790.0,E-wallet,2024-09
+2024-09-05,16:53:00,Pengeluaran,Hiburan,-44363.0,QRIS,2024-09
+2024-09-06,18:01:00,Pengeluaran,Transportasi,-36082.0,Transfer Bank,2024-09
+2024-09-06,12:11:00,Pengeluaran,Tagihan,-35711.0,E-wallet,2024-09
+2024-09-06,17:42:00,Pengeluaran,Makanan,-45658.0,Transfer Bank,2024-09
+2024-09-07,07:34:00,Pengeluaran,Transportasi,-28946.0,Transfer Bank,2024-09
+2024-09-07,10:26:00,Pengeluaran,Tagihan,-26236.0,QRIS,2024-09
+2024-09-07,12:31:00,Pengeluaran,Makanan,-45478.0,E-wallet,2024-09
+2024-09-08,07:23:00,Pengeluaran,Tagihan,-36542.0,Kartu Kredit,2024-09
+2024-09-08,15:35:00,Pengeluaran,Belanja,-35140.0,E-wallet,2024-09
+2024-09-09,15:51:00,Pengeluaran,Belanja,-23453.0,Transfer Bank,2024-09
+2024-09-09,16:21:00,Pengeluaran,Belanja,-26295.0,QRIS,2024-09
+2024-09-09,17:07:00,Pengeluaran,Makanan,-35282.0,QRIS,2024-09
+2024-09-10,08:56:00,Pengeluaran,Belanja,-45849.0,Transfer Bank,2024-09
+2024-09-10,19:19:00,Pengeluaran,Transportasi,-42015.0,Transfer Bank,2024-09
+2024-09-11,19:53:00,Pengeluaran,Transportasi,-31171.0,Transfer Bank,2024-09
+2024-09-11,13:10:00,Pengeluaran,Transportasi,-49426.0,QRIS,2024-09
+2024-09-11,17:36:00,Pengeluaran,Transportasi,-29461.0,Transfer Bank,2024-09
+2024-09-12,15:49:00,Pengeluaran,Hiburan,-35596.0,QRIS,2024-09
+2024-09-12,19:16:00,Pengeluaran,Tagihan,-39342.0,Transfer Bank,2024-09
+2024-09-12,15:39:00,Pengeluaran,Hiburan,-49465.0,Transfer Bank,2024-09
+2024-09-13,15:45:00,Pengeluaran,Transportasi,-29131.0,Kartu Kredit,2024-09
+2024-09-13,11:52:00,Pengeluaran,Transportasi,-20374.0,E-wallet,2024-09
+2024-09-13,16:12:00,Pengeluaran,Tagihan,-32197.0,E-wallet,2024-09
+2024-09-14,17:22:00,Pengeluaran,Belanja,-49052.0,Kartu Kredit,2024-09
+2024-09-14,09:09:00,Pengeluaran,Makanan,-23155.0,QRIS,2024-09
+2024-09-14,21:16:00,Pengeluaran,Makanan,-47514.0,Kartu Kredit,2024-09
+2024-09-15,09:42:00,Pengeluaran,Belanja,-22113.0,E-wallet,2024-09
+2024-09-15,14:28:00,Pengeluaran,Tagihan,-40740.0,Kartu Kredit,2024-09
+2024-09-16,18:15:00,Pengeluaran,Belanja,-48599.0,Transfer Bank,2024-09
+2024-09-16,12:02:00,Pengeluaran,Tagihan,-43446.0,Transfer Bank,2024-09
+2024-09-16,18:46:00,Pengeluaran,Hiburan,-39465.0,Transfer Bank,2024-09
+2024-09-17,19:57:00,Pengeluaran,Transportasi,-25724.0,Transfer Bank,2024-09
+2024-09-17,13:00:00,Pengeluaran,Belanja,-33149.0,E-wallet,2024-09
+2024-09-17,11:35:00,Pengeluaran,Makanan,-26276.0,Kartu Kredit,2024-09
+2024-09-18,15:32:00,Pengeluaran,Hiburan,-43499.0,QRIS,2024-09
+2024-09-18,21:45:00,Pengeluaran,Makanan,-36959.0,E-wallet,2024-09
+2024-09-18,09:00:00,Pengeluaran,Belanja,-29499.0,E-wallet,2024-09
+2024-09-19,10:23:00,Pengeluaran,Tagihan,-39118.0,Transfer Bank,2024-09
+2024-09-19,15:16:00,Pengeluaran,Tagihan,-46928.0,QRIS,2024-09
+2024-09-20,09:35:00,Pengeluaran,Belanja,-34135.0,QRIS,2024-09
+2024-09-20,21:41:00,Pengeluaran,Belanja,-37658.0,QRIS,2024-09
+2024-09-20,15:30:00,Pengeluaran,Transportasi,-20968.0,QRIS,2024-09
+2024-09-21,20:16:00,Pengeluaran,Belanja,-20281.0,Transfer Bank,2024-09
+2024-09-21,07:34:00,Pengeluaran,Makanan,-26262.0,QRIS,2024-09
+2024-09-22,07:58:00,Pengeluaran,Tagihan,-48404.0,Kartu Kredit,2024-09
+2024-09-22,18:30:00,Pengeluaran,Tagihan,-49856.0,Transfer Bank,2024-09
+2024-09-22,11:35:00,Pengeluaran,Belanja,-40969.0,QRIS,2024-09
+2024-09-23,10:52:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-09
+2024-09-23,09:05:00,Pengeluaran,Hiburan,-36170.0,E-wallet,2024-09
+2024-09-23,12:05:00,Pengeluaran,Transportasi,-32504.0,E-wallet,2024-09
+2024-09-23,07:38:00,Pengeluaran,Tagihan,-45784.0,Kartu Kredit,2024-09
+2024-09-24,14:07:00,Pengeluaran,Hiburan,-23249.0,QRIS,2024-09
+2024-09-24,13:23:00,Pengeluaran,Belanja,-26294.0,Transfer Bank,2024-09
+2024-09-25,10:44:00,Pemasukan,Gaji,7000000.0,Transfer,2024-09
+2024-09-25,21:51:00,Pengeluaran,Transportasi,-30985.0,QRIS,2024-09
+2024-09-25,09:08:00,Pengeluaran,Transportasi,-29556.0,QRIS,2024-09
+2024-09-25,12:57:00,Pengeluaran,Tagihan,-27519.0,Kartu Kredit,2024-09
+2024-09-26,12:10:00,Pengeluaran,Transportasi,-35552.0,QRIS,2024-09
+2024-09-26,13:53:00,Pengeluaran,Transportasi,-47050.0,E-wallet,2024-09
+2024-09-27,10:16:00,Pemasukan,Freelance,528625.0,Transfer,2024-09
+2024-09-27,20:59:00,Pengeluaran,Makanan,-49259.0,Kartu Kredit,2024-09
+2024-09-27,20:20:00,Pengeluaran,Makanan,-41293.0,E-wallet,2024-09
+2024-09-27,17:53:00,Pengeluaran,Makanan,-33598.0,Kartu Kredit,2024-09
+2024-09-28,17:01:00,Pengeluaran,Tagihan,-46984.0,E-wallet,2024-09
+2024-09-28,18:43:00,Pengeluaran,Belanja,-24033.0,E-wallet,2024-09
+2024-09-29,18:20:00,Pengeluaran,Makanan,-47808.0,QRIS,2024-09
+2024-09-29,20:00:00,Pengeluaran,Makanan,-32975.0,QRIS,2024-09
+2024-09-29,16:48:00,Pengeluaran,Makanan,-40212.0,QRIS,2024-09
+2024-09-30,12:23:00,Pengeluaran,Makanan,-27114.0,QRIS,2024-09
+2024-09-30,08:41:00,Pengeluaran,Transportasi,-35740.0,Transfer Bank,2024-09
+2024-10-01,11:49:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-10
+2024-10-01,16:53:00,Pengeluaran,Hiburan,-23553.0,Transfer Bank,2024-10
+2024-10-01,11:38:00,Pengeluaran,Tagihan,-21000.0,QRIS,2024-10
+2024-10-01,12:30:00,Pengeluaran,Hiburan,-37772.0,E-wallet,2024-10
+2024-10-02,17:54:00,Pengeluaran,Makanan,-39156.0,E-wallet,2024-10
+2024-10-02,18:50:00,Pengeluaran,Makanan,-47723.0,Transfer Bank,2024-10
+2024-10-03,20:47:00,Pengeluaran,Tagihan,-32178.0,E-wallet,2024-10
+2024-10-03,13:56:00,Pengeluaran,Tagihan,-25592.0,Kartu Kredit,2024-10
+2024-10-04,08:41:00,Pengeluaran,Makanan,-42443.0,Kartu Kredit,2024-10
+2024-10-04,21:26:00,Pengeluaran,Transportasi,-31530.0,E-wallet,2024-10
+2024-10-05,19:56:00,Pengeluaran,Transportasi,-45537.0,QRIS,2024-10
+2024-10-05,20:13:00,Pengeluaran,Hiburan,-42612.0,Transfer Bank,2024-10
+2024-10-05,17:28:00,Pengeluaran,Transportasi,-30693.0,Kartu Kredit,2024-10
+2024-10-06,07:11:00,Pengeluaran,Transportasi,-24760.0,E-wallet,2024-10
+2024-10-06,12:03:00,Pengeluaran,Tagihan,-36353.0,E-wallet,2024-10
+2024-10-07,20:02:00,Pengeluaran,Belanja,-34051.0,QRIS,2024-10
+2024-10-07,12:42:00,Pengeluaran,Hiburan,-45519.0,E-wallet,2024-10
+2024-10-08,21:50:00,Pengeluaran,Transportasi,-46987.0,Kartu Kredit,2024-10
+2024-10-08,07:20:00,Pengeluaran,Hiburan,-45580.0,QRIS,2024-10
+2024-10-08,12:35:00,Pengeluaran,Hiburan,-29206.0,Transfer Bank,2024-10
+2024-10-09,13:38:00,Pengeluaran,Tagihan,-41627.0,QRIS,2024-10
+2024-10-09,07:50:00,Pengeluaran,Makanan,-28906.0,QRIS,2024-10
+2024-10-10,09:20:00,Pengeluaran,Belanja,-33076.0,QRIS,2024-10
+2024-10-10,12:33:00,Pengeluaran,Hiburan,-34113.0,Transfer Bank,2024-10
+2024-10-11,13:12:00,Pengeluaran,Belanja,-27151.0,Kartu Kredit,2024-10
+2024-10-11,15:58:00,Pengeluaran,Belanja,-47117.0,QRIS,2024-10
+2024-10-12,08:45:00,Pengeluaran,Belanja,-43695.0,Transfer Bank,2024-10
+2024-10-12,07:01:00,Pengeluaran,Belanja,-29873.0,Transfer Bank,2024-10
+2024-10-13,08:29:00,Pengeluaran,Tagihan,-43171.0,QRIS,2024-10
+2024-10-13,14:38:00,Pengeluaran,Makanan,-40829.0,Transfer Bank,2024-10
+2024-10-14,07:38:00,Pengeluaran,Belanja,-35945.0,Kartu Kredit,2024-10
+2024-10-14,12:11:00,Pengeluaran,Tagihan,-23654.0,E-wallet,2024-10
+2024-10-15,11:57:00,Pengeluaran,Transportasi,-28636.0,E-wallet,2024-10
+2024-10-15,14:31:00,Pengeluaran,Belanja,-41587.0,QRIS,2024-10
+2024-10-16,13:15:00,Pengeluaran,Makanan,-41675.0,E-wallet,2024-10
+2024-10-16,16:18:00,Pengeluaran,Tagihan,-33673.0,E-wallet,2024-10
+2024-10-16,21:46:00,Pengeluaran,Hiburan,-42668.0,Transfer Bank,2024-10
+2024-10-17,10:39:00,Pengeluaran,Tagihan,-43253.0,E-wallet,2024-10
+2024-10-17,15:40:00,Pengeluaran,Makanan,-39481.0,E-wallet,2024-10
+2024-10-17,13:17:00,Pengeluaran,Transportasi,-49655.0,QRIS,2024-10
+2024-10-18,09:31:00,Pengeluaran,Tagihan,-47207.0,QRIS,2024-10
+2024-10-18,21:18:00,Pengeluaran,Makanan,-23225.0,Transfer Bank,2024-10
+2024-10-19,18:03:00,Pengeluaran,Belanja,-32337.0,QRIS,2024-10
+2024-10-19,07:59:00,Pengeluaran,Hiburan,-23683.0,Kartu Kredit,2024-10
+2024-10-20,09:25:00,Pengeluaran,Transportasi,-43384.0,Kartu Kredit,2024-10
+2024-10-20,14:18:00,Pengeluaran,Hiburan,-36035.0,Kartu Kredit,2024-10
+2024-10-21,15:02:00,Pengeluaran,Tagihan,-46160.0,E-wallet,2024-10
+2024-10-21,18:12:00,Pengeluaran,Belanja,-37633.0,QRIS,2024-10
+2024-10-21,18:01:00,Pengeluaran,Tagihan,-36336.0,Transfer Bank,2024-10
+2024-10-22,13:58:00,Pengeluaran,Tagihan,-36014.0,Kartu Kredit,2024-10
+2024-10-22,09:39:00,Pengeluaran,Belanja,-27622.0,E-wallet,2024-10
+2024-10-22,16:49:00,Pengeluaran,Hiburan,-45225.0,E-wallet,2024-10
+2024-10-23,11:16:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-10
+2024-10-23,19:49:00,Pengeluaran,Makanan,-27421.0,QRIS,2024-10
+2024-10-23,16:56:00,Pengeluaran,Hiburan,-24358.0,E-wallet,2024-10
+2024-10-24,13:13:00,Pengeluaran,Hiburan,-46153.0,Kartu Kredit,2024-10
+2024-10-24,19:32:00,Pengeluaran,Tagihan,-48584.0,E-wallet,2024-10
+2024-10-24,11:39:00,Pengeluaran,Hiburan,-49670.0,E-wallet,2024-10
+2024-10-25,10:59:00,Pemasukan,Gaji,7000000.0,Transfer,2024-10
+2024-10-25,10:37:00,Pengeluaran,Hiburan,-25699.0,QRIS,2024-10
+2024-10-25,17:20:00,Pengeluaran,Transportasi,-45766.0,Kartu Kredit,2024-10
+2024-10-25,19:20:00,Pengeluaran,Belanja,-33031.0,Transfer Bank,2024-10
+2024-10-26,08:12:00,Pengeluaran,Belanja,-34210.0,E-wallet,2024-10
+2024-10-26,08:09:00,Pengeluaran,Makanan,-30106.0,QRIS,2024-10
+2024-10-27,11:42:00,Pemasukan,Freelance,568008.0,Transfer,2024-10
+2024-10-27,20:47:00,Pengeluaran,Tagihan,-26704.0,E-wallet,2024-10
+2024-10-27,15:36:00,Pengeluaran,Transportasi,-25051.0,E-wallet,2024-10
+2024-10-27,09:39:00,Pengeluaran,Belanja,-23610.0,QRIS,2024-10
+2024-10-28,20:31:00,Pengeluaran,Transportasi,-28258.0,Kartu Kredit,2024-10
+2024-10-28,11:18:00,Pengeluaran,Tagihan,-32345.0,Kartu Kredit,2024-10
+2024-10-29,09:51:00,Pengeluaran,Transportasi,-47350.0,Kartu Kredit,2024-10
+2024-10-29,10:28:00,Pengeluaran,Transportasi,-47237.0,Transfer Bank,2024-10
+2024-10-29,14:50:00,Pengeluaran,Hiburan,-46977.0,Kartu Kredit,2024-10
+2024-10-30,20:31:00,Pengeluaran,Belanja,-20661.0,QRIS,2024-10
+2024-10-30,14:32:00,Pengeluaran,Transportasi,-48195.0,E-wallet,2024-10
+2024-10-30,11:46:00,Pengeluaran,Tagihan,-35836.0,QRIS,2024-10
+2024-10-31,10:27:00,Pengeluaran,Makanan,-48982.0,QRIS,2024-10
+2024-10-31,18:09:00,Pengeluaran,Transportasi,-38877.0,Transfer Bank,2024-10
+2024-11-01,10:54:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-11
+2024-11-01,13:39:00,Pengeluaran,Belanja,-49328.0,Kartu Kredit,2024-11
+2024-11-01,15:34:00,Pengeluaran,Belanja,-40103.0,E-wallet,2024-11
+2024-11-01,12:47:00,Pengeluaran,Tagihan,-27446.0,E-wallet,2024-11
+2024-11-02,21:31:00,Pengeluaran,Tagihan,-42483.0,Kartu Kredit,2024-11
+2024-11-02,17:32:00,Pengeluaran,Belanja,-38752.0,E-wallet,2024-11
+2024-11-03,13:45:00,Pengeluaran,Tagihan,-33395.0,Kartu Kredit,2024-11
+2024-11-03,19:22:00,Pengeluaran,Transportasi,-49127.0,E-wallet,2024-11
+2024-11-03,20:03:00,Pengeluaran,Makanan,-37396.0,Transfer Bank,2024-11
+2024-11-04,15:28:00,Pengeluaran,Belanja,-39169.0,E-wallet,2024-11
+2024-11-04,18:02:00,Pengeluaran,Belanja,-40960.0,Kartu Kredit,2024-11
+2024-11-04,13:00:00,Pengeluaran,Transportasi,-46177.0,Kartu Kredit,2024-11
+2024-11-05,14:28:00,Pengeluaran,Transportasi,-35096.0,E-wallet,2024-11
+2024-11-05,09:59:00,Pengeluaran,Hiburan,-49506.0,Transfer Bank,2024-11
+2024-11-06,14:45:00,Pengeluaran,Transportasi,-23267.0,E-wallet,2024-11
+2024-11-06,09:22:00,Pengeluaran,Hiburan,-44981.0,E-wallet,2024-11
+2024-11-06,15:09:00,Pengeluaran,Belanja,-44819.0,Kartu Kredit,2024-11
+2024-11-07,18:17:00,Pengeluaran,Makanan,-32329.0,QRIS,2024-11
+2024-11-07,20:22:00,Pengeluaran,Transportasi,-41932.0,QRIS,2024-11
+2024-11-07,09:13:00,Pengeluaran,Transportasi,-27629.0,E-wallet,2024-11
+2024-11-08,08:12:00,Pengeluaran,Belanja,-27693.0,Kartu Kredit,2024-11
+2024-11-08,16:37:00,Pengeluaran,Tagihan,-44226.0,E-wallet,2024-11
+2024-11-09,14:45:00,Pengeluaran,Transportasi,-39362.0,Transfer Bank,2024-11
+2024-11-09,19:47:00,Pengeluaran,Belanja,-42481.0,Transfer Bank,2024-11
+2024-11-10,20:12:00,Pengeluaran,Makanan,-46561.0,E-wallet,2024-11
+2024-11-10,09:43:00,Pengeluaran,Tagihan,-49984.0,Transfer Bank,2024-11
+2024-11-10,12:35:00,Pengeluaran,Makanan,-45709.0,Transfer Bank,2024-11
+2024-11-11,21:58:00,Pengeluaran,Tagihan,-35795.0,Transfer Bank,2024-11
+2024-11-11,07:24:00,Pengeluaran,Hiburan,-38344.0,E-wallet,2024-11
+2024-11-11,15:01:00,Pengeluaran,Tagihan,-35476.0,Kartu Kredit,2024-11
+2024-11-12,15:56:00,Pengeluaran,Tagihan,-27137.0,E-wallet,2024-11
+2024-11-12,07:11:00,Pengeluaran,Belanja,-27340.0,E-wallet,2024-11
+2024-11-12,16:02:00,Pengeluaran,Belanja,-31916.0,E-wallet,2024-11
+2024-11-13,20:47:00,Pengeluaran,Belanja,-42161.0,E-wallet,2024-11
+2024-11-13,11:13:00,Pengeluaran,Tagihan,-32330.0,E-wallet,2024-11
+2024-11-13,18:02:00,Pengeluaran,Transportasi,-25179.0,Kartu Kredit,2024-11
+2024-11-14,14:46:00,Pengeluaran,Hiburan,-33828.0,Kartu Kredit,2024-11
+2024-11-14,17:41:00,Pengeluaran,Transportasi,-26488.0,E-wallet,2024-11
+2024-11-15,11:12:00,Pengeluaran,Hiburan,-37073.0,QRIS,2024-11
+2024-11-15,08:22:00,Pengeluaran,Makanan,-25078.0,QRIS,2024-11
+2024-11-15,09:28:00,Pengeluaran,Makanan,-49794.0,E-wallet,2024-11
+2024-11-16,15:13:00,Pengeluaran,Belanja,-48861.0,QRIS,2024-11
+2024-11-16,08:19:00,Pengeluaran,Hiburan,-26406.0,QRIS,2024-11
+2024-11-17,11:19:00,Pengeluaran,Belanja,-28800.0,Kartu Kredit,2024-11
+2024-11-17,16:11:00,Pengeluaran,Belanja,-21638.0,Transfer Bank,2024-11
+2024-11-17,12:58:00,Pengeluaran,Makanan,-30340.0,Transfer Bank,2024-11
+2024-11-18,20:39:00,Pengeluaran,Belanja,-23292.0,E-wallet,2024-11
+2024-11-18,14:01:00,Pengeluaran,Belanja,-32411.0,QRIS,2024-11
+2024-11-18,15:04:00,Pengeluaran,Transportasi,-35422.0,E-wallet,2024-11
+2024-11-19,15:38:00,Pengeluaran,Tagihan,-34818.0,Transfer Bank,2024-11
+2024-11-19,15:45:00,Pengeluaran,Hiburan,-46715.0,Kartu Kredit,2024-11
+2024-11-19,16:57:00,Pengeluaran,Tagihan,-26140.0,E-wallet,2024-11
+2024-11-20,13:44:00,Pengeluaran,Transportasi,-44282.0,QRIS,2024-11
+2024-11-20,14:50:00,Pengeluaran,Tagihan,-43177.0,Transfer Bank,2024-11
+2024-11-21,10:32:00,Pengeluaran,Tagihan,-47660.0,E-wallet,2024-11
+2024-11-21,15:12:00,Pengeluaran,Transportasi,-44817.0,Kartu Kredit,2024-11
+2024-11-21,12:37:00,Pengeluaran,Tagihan,-36052.0,Transfer Bank,2024-11
+2024-11-22,09:43:00,Pengeluaran,Tagihan,-20671.0,E-wallet,2024-11
+2024-11-22,15:16:00,Pengeluaran,Makanan,-31234.0,Transfer Bank,2024-11
+2024-11-23,10:59:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-11
+2024-11-23,19:47:00,Pengeluaran,Tagihan,-38739.0,Kartu Kredit,2024-11
+2024-11-23,15:29:00,Pengeluaran,Tagihan,-44345.0,E-wallet,2024-11
+2024-11-24,19:43:00,Pengeluaran,Transportasi,-24719.0,Transfer Bank,2024-11
+2024-11-24,10:46:00,Pengeluaran,Transportasi,-41223.0,E-wallet,2024-11
+2024-11-24,14:15:00,Pengeluaran,Makanan,-48380.0,Transfer Bank,2024-11
+2024-11-25,10:28:00,Pemasukan,Gaji,7000000.0,Transfer,2024-11
+2024-11-25,16:13:00,Pengeluaran,Transportasi,-42548.0,Kartu Kredit,2024-11
+2024-11-25,08:44:00,Pengeluaran,Tagihan,-39056.0,QRIS,2024-11
+2024-11-25,13:32:00,Pengeluaran,Makanan,-23191.0,QRIS,2024-11
+2024-11-26,16:19:00,Pengeluaran,Makanan,-36955.0,QRIS,2024-11
+2024-11-26,07:09:00,Pengeluaran,Tagihan,-29312.0,Transfer Bank,2024-11
+2024-11-27,10:57:00,Pemasukan,Freelance,590353.0,Transfer,2024-11
+2024-11-27,20:08:00,Pengeluaran,Belanja,-38663.0,Kartu Kredit,2024-11
+2024-11-27,19:38:00,Pengeluaran,Belanja,-28906.0,E-wallet,2024-11
+2024-11-27,19:05:00,Pengeluaran,Transportasi,-37159.0,QRIS,2024-11
+2024-11-28,21:14:00,Pengeluaran,Makanan,-36462.0,Kartu Kredit,2024-11
+2024-11-28,13:55:00,Pengeluaran,Tagihan,-34916.0,Kartu Kredit,2024-11
+2024-11-28,08:40:00,Pengeluaran,Belanja,-42614.0,Kartu Kredit,2024-11
+2024-11-29,15:24:00,Pengeluaran,Tagihan,-39655.0,Kartu Kredit,2024-11
+2024-11-29,17:20:00,Pengeluaran,Hiburan,-23456.0,E-wallet,2024-11
+2024-11-29,15:02:00,Pengeluaran,Hiburan,-44983.0,Kartu Kredit,2024-11
+2024-11-30,09:27:00,Pengeluaran,Makanan,-38052.0,E-wallet,2024-11
+2024-11-30,20:45:00,Pengeluaran,Tagihan,-48903.0,QRIS,2024-11
+2024-11-30,14:15:00,Pengeluaran,Belanja,-29866.0,Kartu Kredit,2024-11
+2024-12-01,10:14:00,Pengeluaran,Kosan,-2000000.0,Transfer,2024-12
+2024-12-01,15:10:00,Pengeluaran,Hiburan,-45138.0,Transfer Bank,2024-12
+2024-12-01,19:52:00,Pengeluaran,Transportasi,-49956.0,Kartu Kredit,2024-12
+2024-12-02,17:22:00,Pengeluaran,Transportasi,-29765.0,E-wallet,2024-12
+2024-12-02,10:42:00,Pengeluaran,Belanja,-43888.0,QRIS,2024-12
+2024-12-02,14:42:00,Pengeluaran,Makanan,-22376.0,Transfer Bank,2024-12
+2024-12-03,20:23:00,Pengeluaran,Hiburan,-31824.0,Kartu Kredit,2024-12
+2024-12-03,17:16:00,Pengeluaran,Belanja,-46189.0,Transfer Bank,2024-12
+2024-12-03,13:17:00,Pengeluaran,Makanan,-32504.0,Transfer Bank,2024-12
+2024-12-04,09:28:00,Pengeluaran,Transportasi,-34089.0,E-wallet,2024-12
+2024-12-04,21:18:00,Pengeluaran,Belanja,-45227.0,E-wallet,2024-12
+2024-12-05,20:00:00,Pengeluaran,Transportasi,-46997.0,Transfer Bank,2024-12
+2024-12-05,12:50:00,Pengeluaran,Tagihan,-26303.0,Kartu Kredit,2024-12
+2024-12-05,15:42:00,Pengeluaran,Belanja,-49921.0,QRIS,2024-12
+2024-12-06,13:41:00,Pengeluaran,Makanan,-45511.0,E-wallet,2024-12
+2024-12-06,15:07:00,Pengeluaran,Makanan,-42168.0,E-wallet,2024-12
+2024-12-06,09:03:00,Pengeluaran,Hiburan,-41325.0,Transfer Bank,2024-12
+2024-12-07,20:09:00,Pengeluaran,Makanan,-31889.0,Transfer Bank,2024-12
+2024-12-07,19:04:00,Pengeluaran,Belanja,-22461.0,E-wallet,2024-12
+2024-12-07,14:14:00,Pengeluaran,Belanja,-47935.0,QRIS,2024-12
+2024-12-08,09:01:00,Pengeluaran,Makanan,-43415.0,Kartu Kredit,2024-12
+2024-12-08,10:52:00,Pengeluaran,Makanan,-24875.0,Kartu Kredit,2024-12
+2024-12-08,13:36:00,Pengeluaran,Transportasi,-22196.0,Transfer Bank,2024-12
+2024-12-09,12:01:00,Pengeluaran,Tagihan,-35997.0,Transfer Bank,2024-12
+2024-12-09,10:22:00,Pengeluaran,Belanja,-29951.0,E-wallet,2024-12
+2024-12-09,15:53:00,Pengeluaran,Hiburan,-45944.0,Kartu Kredit,2024-12
+2024-12-10,14:45:00,Pengeluaran,Tagihan,-36140.0,QRIS,2024-12
+2024-12-10,14:42:00,Pengeluaran,Transportasi,-32500.0,Transfer Bank,2024-12
+2024-12-10,16:21:00,Pengeluaran,Belanja,-44858.0,Kartu Kredit,2024-12
+2024-12-11,08:27:00,Pengeluaran,Hiburan,-33718.0,Kartu Kredit,2024-12
+2024-12-11,11:37:00,Pengeluaran,Belanja,-45036.0,E-wallet,2024-12
+2024-12-12,12:52:00,Pengeluaran,Tagihan,-21724.0,Kartu Kredit,2024-12
+2024-12-12,17:29:00,Pengeluaran,Hiburan,-28894.0,Transfer Bank,2024-12
+2024-12-13,20:26:00,Pengeluaran,Tagihan,-49725.0,Kartu Kredit,2024-12
+2024-12-13,09:07:00,Pengeluaran,Belanja,-29496.0,Transfer Bank,2024-12
+2024-12-14,17:55:00,Pengeluaran,Transportasi,-43737.0,Kartu Kredit,2024-12
+2024-12-14,11:20:00,Pengeluaran,Makanan,-42379.0,Kartu Kredit,2024-12
+2024-12-15,08:43:00,Pengeluaran,Makanan,-26019.0,E-wallet,2024-12
+2024-12-15,20:51:00,Pengeluaran,Hiburan,-41727.0,QRIS,2024-12
+2024-12-16,14:52:00,Pengeluaran,Transportasi,-31754.0,E-wallet,2024-12
+2024-12-16,21:55:00,Pengeluaran,Transportasi,-21428.0,QRIS,2024-12
+2024-12-16,08:05:00,Pengeluaran,Hiburan,-45498.0,Kartu Kredit,2024-12
+2024-12-17,16:57:00,Pengeluaran,Tagihan,-38931.0,Kartu Kredit,2024-12
+2024-12-17,12:13:00,Pengeluaran,Transportasi,-39033.0,E-wallet,2024-12
+2024-12-18,07:13:00,Pengeluaran,Belanja,-46832.0,Transfer Bank,2024-12
+2024-12-18,14:16:00,Pengeluaran,Makanan,-39873.0,QRIS,2024-12
+2024-12-18,16:46:00,Pengeluaran,Makanan,-35379.0,E-wallet,2024-12
+2024-12-19,08:09:00,Pengeluaran,Hiburan,-44286.0,QRIS,2024-12
+2024-12-19,18:37:00,Pengeluaran,Hiburan,-37508.0,Kartu Kredit,2024-12
+2024-12-19,09:11:00,Pengeluaran,Belanja,-29596.0,Transfer Bank,2024-12
+2024-12-20,10:46:00,Pengeluaran,Transportasi,-34871.0,Transfer Bank,2024-12
+2024-12-20,19:21:00,Pengeluaran,Transportasi,-21828.0,Transfer Bank,2024-12
+2024-12-20,21:30:00,Pengeluaran,Tagihan,-33109.0,Transfer Bank,2024-12
+2024-12-21,19:51:00,Pengeluaran,Transportasi,-46661.0,Transfer Bank,2024-12
+2024-12-21,07:19:00,Pengeluaran,Belanja,-21080.0,Kartu Kredit,2024-12
+2024-12-22,15:45:00,Pengeluaran,Belanja,-23292.0,E-wallet,2024-12
+2024-12-22,19:20:00,Pengeluaran,Hiburan,-36087.0,Transfer Bank,2024-12
+2024-12-23,11:19:00,Pengeluaran,Transportasi,-1500000.0,Transfer,2024-12
+2024-12-23,21:47:00,Pengeluaran,Belanja,-47523.0,Kartu Kredit,2024-12
+2024-12-23,16:53:00,Pengeluaran,Transportasi,-36029.0,Kartu Kredit,2024-12
+2024-12-23,07:59:00,Pengeluaran,Hiburan,-47835.0,Transfer Bank,2024-12
+2024-12-24,21:37:00,Pengeluaran,Makanan,-23390.0,QRIS,2024-12
+2024-12-24,18:03:00,Pengeluaran,Hiburan,-32693.0,Transfer Bank,2024-12
+2024-12-25,11:48:00,Pemasukan,Gaji,10500000.0,Transfer,2024-12
+2024-12-25,08:56:00,Pengeluaran,Transportasi,-25093.0,Kartu Kredit,2024-12
+2024-12-25,07:18:00,Pengeluaran,Belanja,-36063.0,Kartu Kredit,2024-12
+2024-12-25,12:49:00,Pengeluaran,Tagihan,-49411.0,Transfer Bank,2024-12
+2024-12-26,15:00:00,Pengeluaran,Makanan,-45782.0,E-wallet,2024-12
+2024-12-26,17:27:00,Pengeluaran,Transportasi,-20830.0,Kartu Kredit,2024-12
+2024-12-27,11:31:00,Pemasukan,Freelance,681360.0,Transfer,2024-12
+2024-12-27,08:57:00,Pengeluaran,Hiburan,-36184.0,QRIS,2024-12
+2024-12-27,13:40:00,Pengeluaran,Tagihan,-32448.0,Kartu Kredit,2024-12
+2024-12-28,19:31:00,Pengeluaran,Belanja,-37043.0,E-wallet,2024-12
+2024-12-28,18:49:00,Pengeluaran,Hiburan,-44974.0,QRIS,2024-12
+2024-12-28,21:30:00,Pengeluaran,Belanja,-44650.0,Transfer Bank,2024-12
+2024-12-29,20:56:00,Pengeluaran,Transportasi,-23471.0,Kartu Kredit,2024-12
+2024-12-29,16:32:00,Pengeluaran,Makanan,-45075.0,Kartu Kredit,2024-12
+2024-12-30,17:18:00,Pengeluaran,Transportasi,-34082.0,Kartu Kredit,2024-12
+2024-12-30,11:13:00,Pengeluaran,Makanan,-30077.0,QRIS,2024-12
+2024-12-30,21:08:00,Pengeluaran,Tagihan,-22757.0,Transfer Bank,2024-12
+2024-12-31,19:36:00,Pengeluaran,Tagihan,-38994.0,Transfer Bank,2024-12
+2024-12-31,16:06:00,Pengeluaran,Hiburan,-37833.0,Kartu Kredit,2024-12
