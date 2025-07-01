@@ -58,7 +58,7 @@ with col2:
 col3, col4 = st.columns(2)
 
 with col3:
-    fig, ax = plt.subplots(figsize=(10, 4))
+    fig, ax = plt.subplots(figsize=(10, 3))
     ax.plot(filtered_df['Month'], filtered_df['Savings'], marker='o', color='blue')
     ax.set_title("Savings (Line)")
     ax.yaxis.set_major_formatter(FuncFormatter(format_rupiah))
@@ -66,7 +66,7 @@ with col3:
     st.pyplot(fig)
 
 with col4:
-    fig, ax = plt.subplots(figsize=(10, 4))
+    fig, ax = plt.subplots(figsize=(10, 3))
     ax.plot(filtered_df['Month'], filtered_df['Income'], label='Income', marker='o', color='green')
     ax.plot(filtered_df['Month'], filtered_df['Expense'], label='Expense', marker='o', color='red')
     ax.plot(filtered_df['Month'], filtered_df['Savings'], label='Savings', marker='o', color='blue')
