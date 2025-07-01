@@ -147,33 +147,33 @@ with col8:
         st.info("Pilih minimal 1 bulan untuk insight.")
 
 # Prediksi 12 bulan ke depan
-st.subheader("🔮 Prediksi Savings 12 Bulan ke Depan (Linear Regression)")
+# st.subheader("🔮 Prediksi Savings 12 Bulan ke Depan (Linear Regression)")
 
-df_pred = df.copy()
-df_pred['Month_Num'] = range(1, 13)
+# df_pred = df.copy()
+# df_pred['Month_Num'] = range(1, 13)
 
-X = df_pred[['Month_Num']]
-y = df_pred['Savings']
-model = LinearRegression()
-model.fit(X, y)
+# X = df_pred[['Month_Num']]
+# y = df_pred['Savings']
+# model = LinearRegression()
+# model.fit(X, y)
 
-future_months = pd.date_range(start='2025-01-01', periods=12, freq='M')
-future_nums = np.arange(13, 25).reshape(-1, 1)
-future_savings = model.predict(future_nums)
+# future_months = pd.date_range(start='2025-01-01', periods=12, freq='M')
+# future_nums = np.arange(13, 25).reshape(-1, 1)
+# future_savings = model.predict(future_nums)
 
-pred_df = pd.DataFrame({
-    'Month': future_months.strftime('%b %Y'),
-    'Predicted_Savings': future_savings.astype(int)
-})
+# pred_df = pd.DataFrame({
+#     'Month': future_months.strftime('%b %Y'),
+#     'Predicted_Savings': future_savings.astype(int)
+# })
 # st.dataframe(pred_df)
 
 # Chart prediksi (compact)
-fig, ax = plt.subplots(figsize=(15, 3))
-ax.plot(df_pred['Month_Num'], y, marker='o', label='Actual Savings', color='blue')
-ax.plot(range(13, 25), future_savings, marker='x', linestyle='--', label='Predicted Savings', color='orange')
-ax.set_title("Savings: Aktual & Prediksi 12 Bulan ke Depan")
-ax.set_xlabel("Bulan ke-")
-ax.set_ylabel("Savings")
-ax.yaxis.set_major_formatter(FuncFormatter(format_rupiah))
-ax.legend()
-st.pyplot(fig)
+# fig, ax = plt.subplots(figsize=(15, 3))
+# ax.plot(df_pred['Month_Num'], y, marker='o', label='Actual Savings', color='blue')
+# ax.plot(range(13, 25), future_savings, marker='x', linestyle='--', label='Predicted Savings', color='orange')
+# ax.set_title("Savings: Aktual & Prediksi 12 Bulan ke Depan")
+# ax.set_xlabel("Bulan ke-")
+# ax.set_ylabel("Savings")
+# ax.yaxis.set_major_formatter(FuncFormatter(format_rupiah))
+# ax.legend()
+# st.pyplot(fig)
